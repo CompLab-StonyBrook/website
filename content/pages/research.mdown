@@ -1,0 +1,10 @@
+Title: Research
+Author: CompLab
+
+## Ongoing projects
+
+### Subregular linguistics (Graf, Heinz)
+
+### Computational syntax (Graf)
+
+### Modelling syntactic processing with Minimalist grammars (Graf)

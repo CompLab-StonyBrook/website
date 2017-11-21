@@ -1,0 +1,49 @@
+Title: Software & Resources
+Author: CompLab
+
+[TOC]
+
+## Lecture Notes
+
+- [Language and Technology](lin120.thomasgraf.net) (LIN 120)
+- [Mathematical Methods](lin539.thomasgraf.net) (LIN 539)
+- [Parsing and Processing](lin630.thomasgraf.net) (LIN 630)
+- [Computational Linguistics 2](lin639.thomasgraf.net) (LIN 639)
+
+## Recommended Readings
+
+<img style="width:20%" src="{filename}/images/books/bender.jpg" />
+<br />
+Emily M. Bender (2013): [Linguistic Fundamentals for Natural Language Processing](https://www.amazon.com/Linguistic-Fundamentals-Natural-Language-Processing/dp/1627050116)
+
+<img style="width:20%" src="{filename}/images/books/goldberg.jpg" />
+<br />
+Yoav Goldberg (2017): [Neural Network Methods in Natural Language Processing](https://www.amazon.com/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984)
+
+<img style="width:20%" src="{filename}/images/books/heinzetal.jpg" />
+<br />
+Jeffrey Heinz, Colin de la Higuera, and Menno van Zaanen (2015): [Grammatical Inference for Computational Linguistics](https://www.amazon.com/Grammatical-Inference-Computational-Lingustics-Technologies/dp/1608459772)
+
+<img style="width:20%" src="{filename}/images/books/jurafsky_martin.jpg" />
+<br />
+Daniel Jurafsky & James H. Martin (2008): [Speech and Language Processing](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210)
+
+<img style="width:20%" src="{filename}/images/books/keenan_moss.jpg" />
+<br />
+Edward L. Keenan & Lawrence S. Moss (2016): [Mathematical Structures in Language](https://www.amazon.com/Mathematical-Structures-Languages-Lecture-Notes/dp/1575868474)
+
+<img style="width:20%" src="{filename}/images/books/manning_schutze.jpg" />
+<br />
+Christopher D. Manning & Hinrich Schütze (2008): [Foundations of Statistical Natural Language Processing](https://www.amazon.com/Foundations-Statistical-Natural-Language-Processing/dp/0262133601)
+
+<img style="width:20%" src="{filename}/images/books/roark_sproat.jpg" />
+<br />
+Brian Roark and Richard Sproat (2007): [Computational Approaches to Morphology and Syntax](https://www.amazon.com/Linguistic-Fundamentals-Natural-Language-Processing/dp/1627050116)
+
+## Software
+
+- [mgproc](https://github.com/CompLab-StonyBrook/mgproc)  
+  A Python package for modeling human sentence processing with Minimalist grammars
+
+- [CompLab VM](https://drive.google.com/a/stonybrook.edu/file/d/0B09645QdWLiYUldGSGl5Tmx0Vm8/view?usp=sharing)  
+  A virtual machine image for doing computational linguistics with Python
