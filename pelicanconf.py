@@ -73,11 +73,10 @@ MENUITEMS = (
 )
 
 # Tricks to deal with special files
-STATIC_PATHS = ['theme/images', 'images', 'doc', 'extra/CNAME', 'extra/README.md', 'extra/robots.txt']
+STATIC_PATHS = ['theme/images', 'images', 'doc', 'extra/CNAME', 'extra/README.md']
 STATIC_EXCLUDE_SOURCES = False
 IGNORE_FILES = ['extra']
 EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': 'robots.txt'},
     'extra/README.md': {'path': 'README.md'},
     'extra/CNAME': {'path': 'CNAME'}
 }
