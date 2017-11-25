@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'CompLab'
 SITENAME = u'Computational Linguistics Lab'
-SITESUBTITLE = u'Computational Linguistics at Stony Brook University'
+# SITESUBTITLE = u'Computational Linguistics at Stony Brook University'
 SITEURL = 'http://localhost:8000/output'
 GITHUB_URL = 'https://github.com/CompLab-StonyBrook/website'
 
@@ -55,6 +55,25 @@ MARKDOWN = {
 THEME = 'themes/elegant'
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+
+# should title and details be shown on index.html?
+LANDING_PAGE_ABOUT = (
+{'title': True,
+ 'details': True})
+
+# sidebar of projects; co-opted for contact info
+PROJECTS = [{
+    'name': 'Lab Director',
+    'url': 'jeffrey.heinz@stonybrook.edu',
+    'description': 'Jeffrey Heinz'},
+    {'name': 'M.A. Program Director',
+     'url': 'ma@thomasgraf.net',
+     'description': 'Thomas Graf'},
+    {'name': 'Website Administrator',
+     'url': 'website@thomasgraf.net',
+     'description': 'Thomas Graf'}
+    ]
+
 
 # SLUGIFY_SOURCE = 'basename'
 # ARTICLE_SAVE_AS = '{slug}.html'
