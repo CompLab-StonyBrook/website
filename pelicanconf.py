@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'CompLab'
 SITENAME = u'Computational Linguistics Lab'
 SITESUBTITLE = u'Computational Linguistics at Stony Brook University'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://localhost:8000/output'
 GITHUB_URL = 'https://github.com/CompLab-StonyBrook/website'
 
 PATH = 'content'
