@@ -8,6 +8,10 @@
     - research
         - more project descriptions
         - bibliography at bottom of research; automatically generated from bibtex file
+    - people
+        - faculty in other departments
+        - Ph.D students
+        - M.A. students
 
 - style
     - group picture on homepage, under header
