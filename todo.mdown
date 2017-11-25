@@ -1,0 +1,23 @@
+- content
+    - frontpage & programs
+        - link to promotional brochure
+    - news
+        - interviews with recent hires (Chong, Sophia, Brigi)
+    - alumni
+        - PhD students
+    - research
+        - more project descriptions
+        - bibliography at bottom of research; automatically generated from bibtex file
+
+- style
+    - group picture on homepage, under header
+    - reduce width of Contacts sidebar
+    - news as left sidebar for high resolutions
+    - top-bar:
+        - Lab name right
+        - SBU logo left
+        - second row with menu items, right-aligned
+    - completely redo CSS from scratch, the theme default is a mess
+
+- misc
+    - adapt README.md
