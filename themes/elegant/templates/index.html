@@ -38,9 +38,10 @@
     {% if PROJECTS and LANDING_PAGE_ABOUT %}
     {% set css_class = 'span12' %}
     {% endif %}
-    <header class="page-header {{css_class}}">
-    <h1><a href="{{ SITEURL }}">{{ LANDING_PAGE_ABOUT.title }}</a></h1>
-    </header>
+    {# <header class="page-header {{css_class}}"> #}
+    {# index page title #}
+    {# <h1><a href="{{ SITEURL }}">{{ LANDING_PAGE_ABOUT.title }}</a></h1> #}
+    {# </header> #}
     {% endif %}
 
     <div class="row-fluid">
@@ -50,11 +51,28 @@
         {% set css_class = 'span8' %}
         {% endif %}
         <div class="{{css_class}}">
-            <header>
-            <h1 id="about-me">About me</h1>
-            </header>
+            {# <header> #}
+            {# <h1 id="about-me">About</h1> #}
+            {# </header> #}
             <div class="article-content">
-                {{ LANDING_PAGE_ABOUT.details }}
+            <h2>Welcome to the Computational Linguistics Lab!</h2>
+            <p>
+            The Computational Linguistics Lab is housed in the <a href="http://linguistics.stonybrook.edu">Department of Linguistics</a> at <a href="http://www.stonybrook.edu">Stony Brook University</a>!
+            </p>
+
+            <p>
+            Language may seem easy to humans, but it is very hard for computers.
+            Computational linguists seek to understand the computational mechanisms that underpin language and to use this knowledge to automatically solve language-related tasks with computers.
+            Computational linguistics is increasingly becoming a part of daily life in this world of digital communication, big data, and artificial intelligence.
+            Our lab focuses on computational models of language that are firmly grounded in linguistic theory, and we investigate how practical applications can benefit from incorporating linguistic insights.
+            </p>
+
+            <h2>Become a Computational Linguist!</h2>
+            <p>
+            Are you interested in becoming a computational linguist?
+            The Department of Linguistics offers a <a href="./pages/programs.html">3-semester M.A. degree in Computational lingustics</a>, which will prepare you for a computational linguistics career in industry.
+            You can also apply to the department's <a href="https://linguistics.stonybrook.edu/programs/graduate/phd">Ph.D. program</a>.
+            </p>
             </div>
         </div>
         {% endif %}
@@ -66,12 +84,19 @@
         {% endif %}
         <div class="{{css_class}}">
             <header>
-            <h1 id="my-projects">My Projects</h1>
+            <h2 id="my-projects">Contact</h2>
             </header>
             {% for project in PROJECTS %}
             <ul class="list-all-articles">
                 <li>
-                <a href="{{ project.url }}" title="{{ project.name }}">{{ project.name }}</a> <span class="proj-desc">{{ project.description }}</span>
+                    {{ project.name }}
+                    <br />
+                    <span class="proj-desc">{{ project.description }}
+                    </span>
+                    <br />
+                    <a href="mailto:{{ project.url }}" title="{{ project.name }}">
+                    {{ project.url }}
+                    </a>
                 </li>
             </ul>
             {%endfor %}
@@ -87,7 +112,7 @@
     <div class="row-fluid">
         <div class="{{css_class}}">
             <header>
-            <h1 id="recent-posts">Recent Posts <a id="allposts" href="{{ SITEURL }}/archives.html">all posts</a></h1>
+            <h2 id="recent-posts">Recent News<a id="allposts" href="{{ SITEURL }}/archives.html">show all</a></h2>
             </header>
         <div class="recent-posts">
             {% for article in articles %}
