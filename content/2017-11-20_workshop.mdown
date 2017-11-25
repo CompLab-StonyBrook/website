@@ -1,0 +1,12 @@
+Title: Computational Phonology Workshop
+Author: CompLab
+Date: 2016-12-12
+Category: Events
+Tags: workshop; phonology; students; invited speaker
+
+As part of the [Computational Phonology class (LIN 626)](http://lin626.thomasgraf.net) we hosted an end-of-semester workshop on December 12, 2016.
+This was a great opportunity for students to present their computational research, and many of the projects have since been presented at prominent conferences (e.g. [CLS 53](http://chicagolinguisticsociety.org/public/CLS53_Booklet.pdf)).
+We also had an invited talk by [Adam Jardine](http://rci.rutgers.edu/~aj591/).
+For pictures and more information, please see the [workshop website](https://complab-stonybrook.github.io/compphon_workshop/).
+
+![A packed auditorium at our phonology workshop]({filename}/images/2016-12-12_workshop.jpg)

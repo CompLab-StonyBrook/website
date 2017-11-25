@@ -5,10 +5,12 @@ Author: CompLab
 
 ## Lecture Notes
 
-- [Language and Technology](lin120.thomasgraf.net) (LIN 120)
-- [Mathematical Methods](lin539.thomasgraf.net) (LIN 539)
-- [Parsing and Processing](lin630.thomasgraf.net) (LIN 630)
-- [Computational Linguistics 2](lin639.thomasgraf.net) (LIN 639)
+- [Language and Technology](http://lin120.thomasgraf.net) (LIN 120)
+- [Computational Linguistics 1](https://github.com/CompLab-StonyBrook/CompLing_1) (LIN 537)
+- [Computational Linguistics 2](http://lin637.thomasgraf.net) (LIN 637)
+- [Mathematical Methods](http://lin539.thomasgraf.net) (LIN 539)
+- [Parsing and Processing](http://lin630.thomasgraf.net) (LIN 630)
+- [Skillz hour: Git Training](https://github.com/CompLab-StonyBrook/git_training)
 
 ## Recommended Readings
 

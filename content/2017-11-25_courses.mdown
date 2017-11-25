@@ -1,0 +1,18 @@
+Title: Computational Courses in Spring 2018
+Author: CompLab
+Date: 2017-11-25
+Category: News
+Tags: students; courses
+
+As usual, the coming Spring semester has a large number of computational courses to choose from.
+In the Linguistics department, the following will be offered:
+
+1. Computational Linguistics 2 (LIN 637; Thomas Graf)
+1. Learnability, the second part of a 2-semester sequence (LIN 629; Jeffrey Heinz)
+1. Parsing & Processing (LIN 630; Thomas Graf)
+
+In addition, several courses outside the department should be of interest to computationally minded students:
+
+1. Methods and Applications of Automated Natural Language Processing (SOC 595; [Jason Jones](http://jasonjones.ninja/))
+1. Natural Language Processing (CSE 628; [Niranjan Balasubramanian](http://www3.cs.stonybrook.edu/~niranjan/))
+1. [Python for Scientific Computing](http://bender.astro.sunysb.edu/classes/python-science/) (PHY 546; [Michael Zingale](http://www.astro.sunysb.edu/mzingale/))

@@ -1,9 +1,9 @@
 Title: People
 Author: CompLab
 
-[TOC]
+<!-- [TOC] -->
 
-## Core faculty
+<!-- ## Core faculty -->
 
 - Michael Becker
 
@@ -13,36 +13,35 @@ Author: CompLab
 
 - Jiwon Yun
 
-
-## Faculty in other departments
-
-- Niranjan Bahasubramanian
-
-- Susan Brennan
-
-- Jason Jones
-
-- Andrew Schwartz
-
-- Danny Yogitama
-
-
-## Lecturers
-
-- Andrei Antonenko
-
-## Students
-
-### M.A.
-
-We will have our first incoming class in Fall 2018.
-
-### Ph.D.
-
-- Alëna Aksënova
-
-- Aniello De Santo
-
-- Hossep Dolatian
-
-## Advisory board
+<!-- ## Faculty in other departments -->
+<!--  -->
+<!-- - Niranjan Bahasubramanian -->
+<!--  -->
+<!-- - Susan Brennan -->
+<!--  -->
+<!-- - Jason Jones -->
+<!--  -->
+<!-- - Andrew Schwartz -->
+<!--  -->
+<!-- - Danny Yogitama -->
+<!--  -->
+<!--  -->
+<!-- ## Lecturers -->
+<!--  -->
+<!-- - Andrei Antonenko -->
+<!--  -->
+<!-- ## Students -->
+<!--  -->
+<!-- ### M.A. -->
+<!--  -->
+<!-- We will have our first incoming class in Fall 2018. -->
+<!--  -->
+<!-- ### Ph.D. -->
+<!--  -->
+<!-- - Alëna Aksënova -->
+<!--  -->
+<!-- - Aniello De Santo -->
+<!--  -->
+<!-- - Hossep Dolatian -->
+<!--  -->
+<!-- ## Advisory board -->

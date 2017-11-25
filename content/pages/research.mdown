@@ -3,8 +3,20 @@ Author: CompLab
 
 ## Ongoing projects
 
-### Subregular linguistics (Graf, Heinz)
-
 ### Computational syntax (Graf)
 
-### Modelling syntactic processing with Minimalist grammars (Graf)
+*Syntax* refers to those parts of language that are related to sentence structure.
+Sentence structure is one of the hardest problems in natural language processing.
+Models that build fine-grained structures with high accuracy are too slow for most tasks, whereas existing quick-and-dirty models are only suitable for very simple problems.
+Thomas Graf is trying to design new models that combine computational simplicity with linguistic accuracy.
+He approaches this issue by learning directly from nature: since humans handle syntax very well, the best computer models will be those that operate similar to humans.
+To achieve this goal, Thomas draws heavily from theoretical linguistics, typology, and formal language theory.
+
+### Modelling syntactic processing (Graf)
+
+One central strength of computational approaches is that they make it possible to run computational simulations to better understand the behavior of very complex systems.
+Thomas Graf is using such simulations to better understand how humans process sentences.
+A sentence isn't just a sequence of words, underneath the surface lies a very complex hidden structure, a "sentence molecule".
+Some sentence molecules are easy to build for humans, while others are difficult; and the difficulty seems to be closely related to the shape of the molecules.
+Using insights from theoretical linguistics to formalize the notion of sentence molecules, Thomas is probing which structural properties make some molecules more difficult for humans.
+This sheds new light on how language is computed by humans, and this in turn will allow computers to evaluate how easy sentences are to read and comprehend.

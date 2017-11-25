@@ -4,8 +4,8 @@ Author: CompLab
 # M.A. Class of 2018
 
 Your picture could be here.
-Learn more about [our MA program in Computational Linguistics]({filename}/pages/programs.mdown)
+Learn more about [our MA program in Computational Linguistics]({filename}/pages/programs.mdown).
 
-# Ph.D. Students
-
-- Chong Zhang
+<!-- # Ph.D. Students -->
+<!--  -->
+<!-- - Chong Zhang -->
