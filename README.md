@@ -1,5 +1,5 @@
-Source Files for Personal Website of Thomas Graf
-================================================
+Source Files for Computational Linguistics Lab Website
+======================================================
 
 This is the repository for the website of the [Department of Linguistics'](http://linguistics.stonybrook.edu) research group in Computational Linguistics at [Stony Brook University](http://www.stonybrook.edu).
 The Master branch holds the source files, the gh-pages branch is used for the output files.
