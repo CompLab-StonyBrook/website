@@ -64,7 +64,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('News & Events', '/pages/news-events.html'),
     ('Programs', '/pages/programs.html'),
     ('People', '/pages/people.html'),
     ('Alumni', '/pages/alumni.html'),
@@ -86,7 +85,6 @@ EXTRA_PATH_METADATA = {
 
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ['README.md', '.git', '.gitignore']
-DIRECT_TEMPLATES = ['index', 'categories', 'archives']
 
 # this is needed to get an index.html
 DEFAULT_DATE = 'fs'
