@@ -1,65 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Computational Linguistics Lab</title><link href="http://compling.stonybrook.edu/" rel="alternate"></link><link href="http://compling.stonybrook.edu/feeds/all.atom.xml" rel="self"></link><id>http://compling.stonybrook.edu/</id><updated>2017-11-21T00:00:00-05:00</updated><entry><title>Test article</title><link href="http://compling.stonybrook.edu/test-article.html" rel="alternate"></link><published>2017-11-21T00:00:00-05:00</published><updated>2017-11-21T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-21:/test-article.html</id><summary type="html">&lt;p&gt;This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long&amp;nbsp;time.&lt;/p&gt;
-&lt;p&gt;This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long&amp;nbsp;time.&lt;/p&gt;
-&lt;p&gt;This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long&amp;nbsp;time.&lt;/p&gt;
-&lt;p&gt;This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long&amp;nbsp;time.&lt;/p&gt;
-&lt;p&gt;This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long&amp;nbsp;time.&lt;/p&gt;
-&lt;p&gt;This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long time.
-This is a test and repeats for a long&amp;nbsp;time.&lt;/p&gt;</content></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Computational Linguistics Lab</title><link href="http://compling.stonybrook.edu/" rel="alternate"></link><link href="http://compling.stonybrook.edu/feeds/all.atom.xml" rel="self"></link><id>http://compling.stonybrook.edu/</id><updated>2017-11-29T00:00:00-05:00</updated><entry><title>Frontiers Talk by Kyle Gorman</title><link href="http://compling.stonybrook.edu/frontiers-talk-by-kyle-gorman.html" rel="alternate"></link><published>2017-11-29T00:00:00-05:00</published><updated>2017-11-29T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-29:/frontiers-talk-by-kyle-gorman.html</id><summary type="html">&lt;p&gt;&lt;img style="width:20%; float:right" src="http://compling.stonybrook.edu/images/2017-11-29_gorman.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://research.google.com/pubs/KyleGorman.html"&gt;Kyle Gorman&lt;/a&gt; will be giving a Frontiers talk in our department on November 29 at 4:00pm.
+Kyle got his Ph.D. in Linguistics from Penn University in 2013 and is now working in Google&amp;#8217;s research group on natural language processing in New York.
+One of the big splits …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img style="width:20%; float:right" src="http://compling.stonybrook.edu/images/2017-11-29_gorman.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://research.google.com/pubs/KyleGorman.html"&gt;Kyle Gorman&lt;/a&gt; will be giving a Frontiers talk in our department on November 29 at 4:00pm.
+Kyle got his Ph.D. in Linguistics from Penn University in 2013 and is now working in Google&amp;#8217;s research group on natural language processing in New York.
+One of the big splits in &lt;span class="caps"&gt;NLP&lt;/span&gt; is the divide between hand-crafted resources and automatically trained machine models.
+In his talk, Kyle will contrast the usefulness of these two approaches for text&amp;nbsp;normalization.&lt;/p&gt;
+&lt;p&gt;The title and abstract are&amp;nbsp;below.&lt;/p&gt;
+&lt;h2 id="minimally-supervised-text-normalization-algorithms-and-implementation"&gt;Minimally supervised text normalization: algorithms and&amp;nbsp;implementation&lt;/h2&gt;
+&lt;p&gt;Text normalization refers to methods used to convert text input from written (e.g., &amp;#8220;$2.50&amp;#8221;, &amp;#8220;5:15pm&amp;#8221;) to spoken form (&amp;#8220;two dollars and fifty cents&amp;#8221;, &amp;#8220;five fifteen &lt;span class="caps"&gt;PM&lt;/span&gt;&amp;#8221;), primarily, though not exclusively, as part of a text-to-speech synthesis engine.
+Unlike much of modern natural language processing, much of this process is currently accomplished using hand-written language-specific grammars rather than general-purpose machine learning engines, hindering our ability to scale.
+In the first half of the talk, I describe experiments on learning text normalization for cardinal and ordinal numbers (Gorman &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sproat 2016), which accounts for much of the complexity of these language-specific grammars.
+The first model I describe uses an end-to-end recurrent neural network.
+The second model, drawing inspiration from the linguistics literature, uses finite-state transducers constructed with a minimal amount of training data. 
+While both models achieve near-perfect performance, the latter model can be trained using several orders of magnitude less data than the former, making it particularly useful for low-resource languages.
+I also describe some extensions of this work to other classes such as currency and time expressions.
+The second half of the talk will discuss Pynini (Gorman 2016), an open-source Python library for grammar compilation, which is used to implement minimally supervised text normalization grammar induction.
+I will review the design of this library and provide several tutorial examples drawn from&amp;nbsp;morphophonology.&lt;/p&gt;
+&lt;p&gt;(This talk draws from work done in collaboration with &lt;a href="https://research.google.com/pubs/RichardSproat.html"&gt;Richard Sproat&lt;/a&gt;.)&lt;/p&gt;</content><category term="invited speaker"></category><category term="NLP"></category></entry><entry><title>Computational Courses in Spring 2018</title><link href="http://compling.stonybrook.edu/computational-courses-in-spring-2018.html" rel="alternate"></link><published>2017-11-25T00:00:00-05:00</published><updated>2017-11-25T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-25:/computational-courses-in-spring-2018.html</id><summary type="html">&lt;p&gt;As usual, the coming Spring semester has a large number of computational courses to choose from.
+In the Linguistics department, the following will be&amp;nbsp;offered:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Computational Linguistics 2 (&lt;span class="caps"&gt;LIN&lt;/span&gt; 637; Thomas&amp;nbsp;Graf)&lt;/li&gt;
+&lt;li&gt;Learnability, the second part of a 2-semester sequence (&lt;span class="caps"&gt;LIN&lt;/span&gt; 629; Jeffrey&amp;nbsp;Heinz)&lt;/li&gt;
+&lt;li&gt;Parsing &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Processing (&lt;span class="caps"&gt;LIN&lt;/span&gt; 630; Thomas&amp;nbsp;Graf …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;As usual, the coming Spring semester has a large number of computational courses to choose from.
+In the Linguistics department, the following will be&amp;nbsp;offered:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Computational Linguistics 2 (&lt;span class="caps"&gt;LIN&lt;/span&gt; 637; Thomas&amp;nbsp;Graf)&lt;/li&gt;
+&lt;li&gt;Learnability, the second part of a 2-semester sequence (&lt;span class="caps"&gt;LIN&lt;/span&gt; 629; Jeffrey&amp;nbsp;Heinz)&lt;/li&gt;
+&lt;li&gt;Parsing &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Processing (&lt;span class="caps"&gt;LIN&lt;/span&gt; 630; Thomas&amp;nbsp;Graf)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In addition, several courses outside the department should be of interest to computationally minded&amp;nbsp;students:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Methods and Applications of Automated Natural Language Processing (&lt;span class="caps"&gt;SOC&lt;/span&gt; 595; &lt;a href="http://jasonjones.ninja/"&gt;Jason Jones&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Natural Language Processing (&lt;span class="caps"&gt;CSE&lt;/span&gt; 628; &lt;a href="http://www3.cs.stonybrook.edu/~niranjan/"&gt;Niranjan Balasubramanian&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bender.astro.sunysb.edu/classes/python-science/"&gt;Python for Scientific Computing&lt;/a&gt; (&lt;span class="caps"&gt;PHY&lt;/span&gt; 546; &lt;a href="http://www.astro.sunysb.edu/mzingale/"&gt;Michael Zingale&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;</content><category term="students"></category><category term="courses"></category></entry><entry><title>Hossep Dolation Presenting in IACS Seminar Series</title><link href="http://compling.stonybrook.edu/hossep-dolation-presenting-in-iacs-seminar-series.html" rel="alternate"></link><published>2017-11-24T00:00:00-05:00</published><updated>2017-11-24T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-24:/hossep-dolation-presenting-in-iacs-seminar-series.html</id><summary type="html">&lt;p&gt;&lt;img style="width:30%; float:right" src="http://compling.stonybrook.edu/images/2017-11-24_dolatian.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Our very own Hossep Dolatian will be giving a &lt;a href="https://www.iacs.stonybrook.edu/event/seminars/reduplication-with-2-way-deterministic-finite-state-transducers"&gt;talk on computational models of reduplication&lt;/a&gt; in the &lt;a href="https://www.iacs.stonybrook.edu/events/seminars"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; seminar series&lt;/a&gt; next Spring semester on April 11,&amp;nbsp;2018.&lt;/p&gt;
+&lt;p&gt;Hossep&amp;#8217;s Ph.D. research has focused on the process of reduplication, where parts of an existing word are doubled in order to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img style="width:30%; float:right" src="http://compling.stonybrook.edu/images/2017-11-24_dolatian.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Our very own Hossep Dolatian will be giving a &lt;a href="https://www.iacs.stonybrook.edu/event/seminars/reduplication-with-2-way-deterministic-finite-state-transducers"&gt;talk on computational models of reduplication&lt;/a&gt; in the &lt;a href="https://www.iacs.stonybrook.edu/events/seminars"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; seminar series&lt;/a&gt; next Spring semester on April 11,&amp;nbsp;2018.&lt;/p&gt;
+&lt;p&gt;Hossep&amp;#8217;s Ph.D. research has focused on the process of reduplication, where parts of an existing word are doubled in order to create a new one.
+Take the language &lt;em&gt;Marshallese&lt;/em&gt;, a Micronesian language spoken in the Marshall Islands.
+In Marshallese, &lt;em&gt;kagir&lt;/em&gt; means belt, but if one doubles &lt;em&gt;gir&lt;/em&gt; one gets &lt;em&gt;kagir-gir&lt;/em&gt;, which means to wear a&amp;nbsp;belt.&lt;/p&gt;
+&lt;p&gt;Copying processes are computationally challenging.
+Depending on the size of the copied material, the process can be much more computationally demanding than anything else found in morphology, the part of language that deals with words.
+Even sentence structure rarely reaches these levels of complexity.
+Hossep has been carefully mapping out the kinds of attested reduplication across dozens of languages and how minor differences between the patterns can have a huge impact on their complexity.
+We are all looking forward to hearing about his newest research&amp;nbsp;findings.&lt;/p&gt;</content><category term="students"></category><category term="talk"></category><category term="morphology"></category></entry><entry><title>Frontiers Talk by Sam van Gool</title><link href="http://compling.stonybrook.edu/frontiers-talk-by-sam-van-gool.html" rel="alternate"></link><published>2017-11-17T00:00:00-05:00</published><updated>2017-11-17T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-17:/frontiers-talk-by-sam-van-gool.html</id><summary type="html">&lt;p&gt;&lt;img style="width:30%; float:right" src="http://compling.stonybrook.edu/images/2017-11-17_gool.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.samvangool.net/"&gt;Sam van Gool&lt;/a&gt; gave a &lt;em&gt;Frontiers talk&lt;/em&gt; today at our department.
+Frontiers talks provide a venue for researchers to present bleeding-edge work to a more specialized audience than what one finds at a colloquium.
+Sam took full advantage of the format and delivered an amazing presentation on the connections between …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img style="width:30%; float:right" src="http://compling.stonybrook.edu/images/2017-11-17_gool.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.samvangool.net/"&gt;Sam van Gool&lt;/a&gt; gave a &lt;em&gt;Frontiers talk&lt;/em&gt; today at our department.
+Frontiers talks provide a venue for researchers to present bleeding-edge work to a more specialized audience than what one finds at a colloquium.
+Sam took full advantage of the format and delivered an amazing presentation on the connections between formal language theory and abstract algebra.
+His topic intersects with &lt;a href=""&gt;recent work on subregular languages&lt;/a&gt; spearheaded by &lt;a href="https://heinz-jeffrey.github.io/"&gt;Jeffrey Heinz&lt;/a&gt; here at Stony Brook.
+Needless to say, the post-talk dinner had a very lively&amp;nbsp;discussion.&lt;/p&gt;
+&lt;p&gt;The title and abstract of Sam&amp;#8217;s talk are shown&amp;nbsp;below.&lt;/p&gt;
+&lt;h2 id="language-hierarchies-and-profinite-monoids-via-stone-duality"&gt;Language hierarchies and profinite monoids via Stone&amp;nbsp;duality&lt;/h2&gt;
+&lt;p&gt;Finite monoids are useful algebraic invariants for regular languages:
+logical properties of a regular language correspond to algebraic properties of the finite monoids that recognize it.
+Profinite monoids figure prominently in this theory as the appropriate inverse limit objects for well-behaved classes of finite monoids.
+While the theory of (pro)finite monoids and regular languages is very classical, many problems in it remain open.
+In particular, there are notoriously difficult unanswered questions about the decidability of hierarchies of regular languages defined by restricting quantifier depth.
+In this talk, I will show how, in the past few years, the mathematical theory of
+Stone duality has helped to shed new light on some of these&amp;nbsp;problems.&lt;/p&gt;</content><category term="invited speaker"></category><category term="formal language theory"></category></entry><entry><title>Computational Phonology Workshop</title><link href="http://compling.stonybrook.edu/computational-phonology-workshop.html" rel="alternate"></link><published>2016-12-12T00:00:00-05:00</published><updated>2016-12-12T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2016-12-12:/computational-phonology-workshop.html</id><summary type="html">&lt;p&gt;As part of the &lt;a href="http://lin626.thomasgraf.net"&gt;Computational Phonology class (&lt;span class="caps"&gt;LIN&lt;/span&gt; 626)&lt;/a&gt; we hosted an end-of-semester workshop on December 12, 2016.
+This was a great opportunity for students to present their computational research, and many of the projects have since been presented at prominent conferences (e.g. &lt;a href="http://chicagolinguisticsociety.org/public/CLS53_Booklet.pdf"&gt;&lt;span class="caps"&gt;CLS&lt;/span&gt; 53&lt;/a&gt;).
+We also had an …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As part of the &lt;a href="http://lin626.thomasgraf.net"&gt;Computational Phonology class (&lt;span class="caps"&gt;LIN&lt;/span&gt; 626)&lt;/a&gt; we hosted an end-of-semester workshop on December 12, 2016.
+This was a great opportunity for students to present their computational research, and many of the projects have since been presented at prominent conferences (e.g. &lt;a href="http://chicagolinguisticsociety.org/public/CLS53_Booklet.pdf"&gt;&lt;span class="caps"&gt;CLS&lt;/span&gt; 53&lt;/a&gt;).
+We also had an invited talk by &lt;a href="http://rci.rutgers.edu/~aj591/"&gt;Adam Jardine&lt;/a&gt;.
+For pictures and more information, please see the &lt;a href="https://complab-stonybrook.github.io/compphon_workshop/"&gt;workshop website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="A packed auditorium at our phonology workshop" src="http://compling.stonybrook.edu/images/2016-12-12_workshop.jpg"&gt;&lt;/p&gt;</content><category term="workshop"></category><category term="phonology"></category><category term="students"></category><category term="invited speaker"></category></entry></feed>
