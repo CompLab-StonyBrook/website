@@ -9,4 +9,4 @@ This was a great opportunity for students to present their computational researc
 We also had an invited talk by [Adam Jardine](http://rci.rutgers.edu/~aj591/).
 For pictures and more information, please see the [workshop website](https://complab-stonybrook.github.io/compphon_workshop/).
 
-![A packed auditorium at our phonology workshop]({filename}/images/2016-12-12_workshop.jpg)
+![A packed auditorium at our phonology workshop]({filename}/images/news/2016-12-12_workshop.jpg)

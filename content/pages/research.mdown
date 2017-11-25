@@ -1,6 +1,8 @@
 Title: Research
 Author: CompLab
 
+[TOC]
+
 ## Ongoing projects
 
 ### Computational syntax (Graf)

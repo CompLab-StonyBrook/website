@@ -4,7 +4,7 @@ Date: 2017-11-17
 Category: Events
 Tags: invited speaker; formal language theory
 
-<img style="width:30%; float:right" src="{filename}/images/2017-11-17_gool.jpg" />
+<img style="width:30%; float:right" src="{filename}/images/news/2017-11-17_gool.jpg" />
 
 [Sam van Gool](http://www.samvangool.net/) gave a *Frontiers talk* today at our department.
 Frontiers talks provide a venue for researchers to present bleeding-edge work to a more specialized audience than what one finds at a colloquium.
