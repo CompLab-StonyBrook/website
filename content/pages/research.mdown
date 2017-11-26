@@ -5,7 +5,7 @@ Author: CompLab
 
 ## Ongoing projects
 
-### Computational syntax (Graf)
+### Computational syntax (Thomas Graf)
 
 *Syntax* refers to those parts of language that are related to sentence structure.
 Sentence structure is one of the hardest problems in natural language processing.
@@ -14,7 +14,7 @@ Thomas Graf is trying to design new models that combine computational simplicity
 He approaches this issue by learning directly from nature: since humans handle syntax very well, the best computer models will be those that operate similar to humans.
 To achieve this goal, Thomas draws heavily from theoretical linguistics, typology, and formal language theory.
 
-### Modelling syntactic processing (Graf)
+### Modelling syntactic processing (Thomas Graf)
 
 One central strength of computational approaches is that they make it possible to run computational simulations to better understand the behavior of very complex systems.
 Thomas Graf is using such simulations to better understand how humans process sentences.
