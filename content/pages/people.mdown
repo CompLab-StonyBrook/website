@@ -85,7 +85,7 @@ Author: CompLab
       </a>
       <div class="container">
         <h3>Jeffrey Heinz</h3>
-        <p class="institute">Linguistics</p>
+        <p class="institute">Linguistics & Institute for Advanced Computational Science</p>
         <p>Computational phonology, learnability, formal language theory</p>
         <p>
             <a href="mailto:jeffrey.heinz@stonybrook.edu">jeffrey.heinz@stonybrook.edu</a>
