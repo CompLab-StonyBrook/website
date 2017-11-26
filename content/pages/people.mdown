@@ -5,13 +5,111 @@ Author: CompLab
 
 <!-- ## Core faculty -->
 
-- Michael Becker
+<style>
+/* columns side by side */
+.column {
+    float: left;
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+    display: block;
+}
 
-- Thomas Graf
+/* Display the columns below each other instead of side by side on small screens */
+@media (max-width: 650px) {
+    .column {
+        width: 30%;
+        display: block;
+    }
+}
 
-- Jeffrey Heinz
+/* Add some shadows to create a card effect */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
 
-- Jiwon Yun
+/* Some left and right padding inside the container */
+.container {
+    padding: 0 16px;
+}
+
+/* Clear floats */
+.container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.institute {
+    color: grey;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <a href="http://becker.phonologist.org">
+          <img src="{filename}/images/people/michael_becker.jpg" alt="Michael Becker" style="width:30%; border:none;float:left; float:left">
+      </a>
+      <div class="container">
+        <h3>Michael Becker</h3>
+        <p class="institute">Linguistics</p>
+        <p>Computational phonology, machine learning</p>
+        <p>
+            <a href="mailto:michael.becker@stonybrook.edu">michael.becker@stonybrook.edu</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="http://www.thomasgraf.net">
+          <img src="{filename}/images/people/thomas_graf.jpg" alt="Thomas Graf" style="width:30%; border:none;float:left">
+      </a>
+      <div class="container">
+        <h3>Thomas Graf</h3>
+        <p class="institute">Linguistics</p>
+        <p>Computational morphology and syntax, formal language theory</p>
+        <p>
+            <a href="mailto:mail@thomasgraf.net">mail@thomasgraf.net</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="https://heinz-jeffrey.github.io/">
+          <img src="{filename}/images/people/jeffrey_heinz.jpg" alt="Jeffrey Heinz" style="width:30%; border:none;float:left">
+      </a>
+      <div class="container">
+        <h3>Jeffrey Heinz</h3>
+        <p class="institute">Linguistics</p>
+        <p>Computational phonology, learnability, formal language theory</p>
+        <p>
+            <a href="mailto:jeffrey.heinz@stonybrook.edu">jeffrey.heinz@stonybrook.edu</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <a href="https://linguistics.stonybrook.edu/jiwonyun/index.html">
+          <img src="{filename}/images/people/jiwon_yun.jpg" alt="Jiown Yun" style="width:30%; border:none;float:left">
+      </a>
+      <div class="container">
+        <h3>Jiwon Yun</h3>
+        <p class="institute">Linguistics</p>
+        <p>Computational syntax and semantics, corpus methods</p>
+        <p>
+            <a href="mailto:jiwon.yun@stonybrook.edu">jiwon.yun@stonybrook.edu</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- ## Faculty in other departments -->
 <!--  -->
