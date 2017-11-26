@@ -23,7 +23,18 @@ Our M.A. program in Computational Linguistics is designed to prepare students fr
 
 ## Overview of the program
 
-Some general bla bla here
+Our 3-semester program is designed to get students with little background in linguistics and programming to a level where they are ready to take on an internship after two semesters and enter the job market at the end of the third semester.
+As one of our graduates, you will have acquire core competencies in programming, algorithms and data structures, advanced mathematics (algebra, logic, statistics), linguistic theories of sound and grammar (syntax, phonetics, phonology) and the computational analysis of natural language (automata theory, complexity theory).
+You will also have practical experience with existing software solutions and toolkits that are widely used in the industry.
+This diverse, interdisciplinary skill set will allow you to take on a variety of positions in the IT sector.
+You will be able to evaluate existing solutions with respect to their linguistic adequacy as well as design and implement new solutions in a rapid prototyping environment.
+You may also act as the link between teams of linguists and software engineers in large-scale projects.
+
+We put a strong emphasis on teaching not only techniques that are currently state-of-the-art, but also the theoretical foundations of computational linguistics.
+While the former are often short-lived, theory has a much longer half-time and will still help you in your job decades from now.
+We also integrate theoretical linguistics very tightly into our curriculum.
+We expect that as language technology progresses, the IT industry will shift its focus from simple solutions for very limited tasks to more challenging problems that require linguistically sophisticated models.
+A strong linguistics background will allow you to boldly move into these emerging areas and set yourself apart from software engineers and machine learning experts.
 
 ### Degree requirements
 
@@ -105,6 +116,7 @@ The Linguistics Department provides [more specific descriptions each semester](h
 
 ### Curriculum map and course progression
 
+Students can start the program only in a Fall semester.
 The recommended course progression is as follows.
 
 **Semester** | **Course 1** | **Course 2** | **Course 3** | **Course 4**
@@ -120,13 +132,16 @@ The curriculum map shows the dependencies between these courses.
 
 ### Extracurricular activities
 
-- Skillz hour
-- Frontiers talks
-- Mathematical linguistics reading group
-- NLP reading group
-- Social events
-- Talks by alumni and industry veterans
+In addition to their course work, students can participate in a large number of extracurricular activities related to computational linguistics.
+These include:
 
+1. Frontiers talks and colloquia that cover computational topics; watch our [news feed](../archives.html) for announcements
+1. Events sponsored by the [Institute for Advanced Computational Science](https://www.iacs.stonybrook.edu/events)
+1. Q&A sessions with alumni and industry veterans
+1. Our [Mathematical Linguistics Reading Group](http://complab-stonybrook.github.io/mlrg/)
+1. The [NLP reading group](https://sites.google.com/site/nlpsbureadinggroup/) in the Department of Computer Science
+
+We also encourage all M.A. students to participate in social events hosted by the department, for instance colloquium receptions.
 
 
 ## How to apply
@@ -173,8 +188,11 @@ For general information on the admissions process, see the [Graduate bulletin](h
 **Why Stony Brook?**  
 There are several computational linguistics programs across the country.
 The program at Stony Brook distinguishes itself through a unique philosophy.
+We believe that true progress in computational linguistics is impossible without a good scientific understanding of how language works.
+Hence we strive to give students not just a computational toolbox to solve the problems of today, but also the linguistic know-how to develop new solutions for the problems of tomorrow.
 
-unique philosophy, close collaboration with CS and IACS, advisory board, internships, close mentoring
+<!-- In addition, we closely collaborate with the [Department of Computer Science]() and the [Institute for Advanced Computational Science]() -->
+<!-- unique philosophy, close collaboration with CS and IACS, advisory board, internships, close mentoring -->
 
 **Do I need a BA in Linguistics or Computer Science?**  
 You need a BA, but we do not require a BA in a specific field.
@@ -224,13 +242,13 @@ Most of that takes place on weekdays between 9am and 6pm, which is incompatible 
 **But isn't practical experience very important for landing a job?**  
 True, and that is why we make a concerted effort to organize internships for students during the summer break between the second and third semester.
 
-**I want to be a research scientist, should I go for a Ph.D. instead?**
+**I want to be a research scientist, should I go for a Ph.D. instead?**  
 A Ph.D. is a hard requirement for a researcher position in academia.
 For research groups in industry a Ph.D. is usually a strong advantage, but not always necessary.
 A reasonable strategy is to first get an M.A. in Computational Linguistics to test the waters.
 If after one year you are absolutely sure that you enjoy doing research in this area, you can apply for admission into a Ph.D. program. 
 
-**Can I transfer from the M.A. program into the Linguistics Ph.D. program at Stony Brook?**
+**Can I transfer from the M.A. program into the Linguistics Ph.D. program at Stony Brook?**  
 Yes and no.
 You can apply for admission to the Ph.D. even if you are already enrolled in the M.A. program.
 But your application will be evaluated as any other among the pool of applicants, being in the M.A. program does not grant you any special status. 
@@ -247,15 +265,12 @@ This means having had prior exposure to the idea that language can be studied as
 And it means having had some basic training in computational, algorithmic thinking, which covers a wide range of courses from philosophy over linguistics to computer science and mathematics.
 
 **Is there anything I can do to strengthen my application?**  
-fixme: expand
-
-- take linguistics course
-- take an analytical course
-- do some statistics
-- show initiative
-    - online courses
-    - code combat
-
+When applying to any graduate program, the most important thing is that you have a good idea of what the program is like.
+You do not want to realize a few months in that the subject matter isn't really to your liking.
+Since computational linguistics combines linguistics and computer science, you should make sure to get some experience in each field.
+If you have not had any contact with linguistics, take an intro class.
+If you have never done any programming, advanced mathematics or formal reasoning course, try a one-week intro to programming.
+Those will give you the required confidence that a computational linguistics M.A. is the right choice for you.
 
 **When should I apply?**  
 Admission decisions are made on a rolling basis starting **March 1**, and no applications will be accepted after **April 15**.
