@@ -1,60 +1,24 @@
 Title: People
+page-order: 20
 Author: CompLab
 
-<!-- [TOC] -->
+[TOC]
 
-<!-- ## Core faculty -->
 
-<style>
-/* columns side by side */
-.column {
-    float: left;
-    width: 100%;
-    margin-bottom: 16px;
-    padding: 0 8px;
-    display: block;
-}
+## Core Faculty
 
-/* Display the columns below each other instead of side by side on small screens */
-@media (max-width: 650px) {
-    .column {
-        width: 100%;
-        display: block;
-    }
-}
-
-/* Add some shadows to create a card effect */
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-/* Some left and right padding inside the container */
-.container {
-    padding: 0 16px;
-}
-
-/* Clear floats */
-.container::after, .row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
-.institute {
-    color: grey;
-}
-</style>
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <a href="http://becker.phonologist.org">
-          <img src="{filename}/images/people/michael_becker.jpg" alt="Michael Becker" style="width:30%; border:none;float:left; float:left">
-      </a>
-      <div class="container">
+<div class="person-row">
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="http://becker.phonologist.org">
+              <img src="{filename}/images/people/michael_becker.jpg" alt="Michael Becker">
+          </a>
+      </div>
+      <div class="person-info">
         <h3>Michael Becker</h3>
-        <p class="institute">Linguistics</p>
-        <p>Computational phonology, machine learning</p>
+        <p class="person-institute">Department of Linguistics</p>
+        <p>Computational phonology, Machine learning</p>
         <p>
             <a href="mailto:michael.becker@stonybrook.edu">michael.becker@stonybrook.edu</a>
         </p>
@@ -62,15 +26,17 @@ Author: CompLab
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <a href="http://www.thomasgraf.net">
-          <img src="{filename}/images/people/thomas_graf.jpg" alt="Thomas Graf" style="width:30%; border:none;float:left">
-      </a>
-      <div class="container">
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="http://www.thomasgraf.net">
+              <img src="{filename}/images/people/thomas_graf.jpg" alt="Thomas Graf">
+          </a>
+      </div>
+      <div class="person-info">
         <h3>Thomas Graf</h3>
-        <p class="institute">Linguistics</p>
-        <p>Computational morphology and syntax, formal language theory</p>
+        <p class="person-institute">Department of Linguistics & Institute for Advanced Computational Science</p>
+        <p>Computational phonology, morphology and syntax, Formal language theory</p>
         <p>
             <a href="mailto:mail@thomasgraf.net">mail@thomasgraf.net</a>
         </p>
@@ -78,15 +44,17 @@ Author: CompLab
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <a href="https://heinz-jeffrey.github.io/">
-          <img src="{filename}/images/people/jeffrey_heinz.jpg" alt="Jeffrey Heinz" style="width:30%; border:none;float:left">
-      </a>
-      <div class="container">
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="https://heinz-jeffrey.github.io/">
+              <img src="{filename}/images/people/jeffrey_heinz.jpg" alt="Jeffrey Heinz">
+          </a>
+      </div>
+      <div class="person-info">
         <h3>Jeffrey Heinz</h3>
-        <p class="institute">Linguistics & Institute for Advanced Computational Science</p>
-        <p>Computational phonology, learnability, formal language theory</p>
+        <p class="person-institute">Department of Linguistics & Institute for Advanced Computational Science</p>
+        <p>Computational phonology, Learnability, Formal language theory</p>
         <p>
             <a href="mailto:jeffrey.heinz@stonybrook.edu">jeffrey.heinz@stonybrook.edu</a>
         </p>
@@ -94,15 +62,17 @@ Author: CompLab
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <a href="https://linguistics.stonybrook.edu/jiwonyun/index.html">
-          <img src="{filename}/images/people/jiwon_yun.jpg" alt="Jiown Yun" style="width:30%; border:none;float:left">
-      </a>
-      <div class="container">
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="https://linguistics.stonybrook.edu/jiwonyun/index.html">
+              <img src="{filename}/images/people/jiwon_yun.jpg" alt="Jiown Yun">
+          </a>
+      </div>
+      <div class="person-info">
         <h3>Jiwon Yun</h3>
-        <p class="institute">Linguistics</p>
-        <p>Computational syntax and semantics, corpus methods</p>
+        <p class="person-institute">Department of Linguistics</p>
+        <p>Computational syntax and semantics, Corpus methods</p>
         <p>
             <a href="mailto:jiwon.yun@stonybrook.edu">jiwon.yun@stonybrook.edu</a>
         </p>
@@ -111,35 +81,80 @@ Author: CompLab
   </div>
 </div>
 
-<!-- ## Faculty in other departments -->
-<!--  -->
-<!-- - Niranjan Bahasubramanian -->
-<!--  -->
+## Faculty in other departments
+
+<div class="person-row">
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="http://www3.cs.stonybrook.edu/~niranjan/">
+              <img src="{filename}/images/people/niranjan_balasubramanian.jpg" alt="Niranjan Balasubramanian">
+          </a>
+      </div>
+      <div class="person-info">
+        <h3>Niranjan Balasubramanian</h3>
+        <p class="person-institute">Department of Computer Science & Department of Biomedical Informatics</p>
+        <p>Natural language processing, Information retrieval</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="http://jasonjones.ninja/">
+              <img src="{filename}/images/people/jason_j_jones.jpg" alt="Jason J. Jones">
+          </a>
+      </div>
+      <div class="person-info">
+        <h3>Jason J. Jones</h3>
+        <p class="person-institute">Department of Sociology & Institute for Advanced Computational Science</p>
+        <p>Computational social science, Social networks, Big data</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="https://www3.cs.stonybrook.edu/~has/index.html">
+              <img src="{filename}/images/people/andrew_schwartz.png" alt="H. Andrew Schwartz">
+          </a>
+      </div>
+      <div class="person-info">
+        <h3>H. Andrew Schwartz</h3>
+        <p class="person-institute">Department of Computer Science</p>
+        <p>Computational phonology, learnability, formal language theory</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- - Susan Brennan -->
-<!--  -->
-<!-- - Jason Jones -->
-<!--  -->
-<!-- - Andrew Schwartz -->
-<!--  -->
 <!-- - Danny Yogitama -->
-<!--  -->
-<!--  -->
+
 <!-- ## Lecturers -->
-<!--  -->
+
 <!-- - Andrei Antonenko -->
-<!--  -->
+
 <!-- ## Students -->
-<!--  -->
+
 <!-- ### M.A. -->
-<!--  -->
 <!-- We will have our first incoming class in Fall 2018. -->
-<!--  -->
+
 <!-- ### Ph.D. -->
 <!--  -->
 <!-- - Alëna Aksënova -->
-<!--  -->
 <!-- - Aniello De Santo -->
-<!--  -->
 <!-- - Hossep Dolatian -->
-<!--  -->
+
 <!-- ## Advisory board -->
+<!-- - Alumni -->
+<!--     - Brigitta Fodor (Amazon, Boston) -->
+<!--     - Chong Zhang (Kasisto, NYC) -->
+<!-- - Industry -->
+<!--     - Kyle Gorman (Google, NYC) -->
+<!--     - Owen Rambow (Elemental Cognition, NYC) -->
+<!--     - Marisa Ferrara-Boston (KPMG, Detroit & NYC) -->
+<!-- - Academia -->
+<!--     - Emily Bender (University of Washington) -->

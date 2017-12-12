@@ -1,4 +1,5 @@
-Title: Software & Resources
+Title: Resources
+page-order: 50
 Author: CompLab
 
 [TOC]

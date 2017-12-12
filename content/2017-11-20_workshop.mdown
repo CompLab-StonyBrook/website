@@ -1,7 +1,7 @@
 Title: Computational Phonology Workshop
 Author: CompLab
 Date: 2016-12-12
-Category: Events
+Category: Event
 Tags: workshop; phonology; students; invited speaker
 
 As part of the [Computational Phonology class (LIN 626)](http://lin626.thomasgraf.net) we hosted an end-of-semester workshop on December 12, 2016.

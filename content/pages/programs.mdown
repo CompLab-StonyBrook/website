@@ -1,4 +1,5 @@
 Title: Programs
+page-order: 10
 Author: CompLab
 
 [TOC]
@@ -185,7 +186,7 @@ For general information on the admissions process, see the [Graduate bulletin](h
 
 ### Character of the program
 
-**Why Stony Brook?**  
+<span class="question">Why Stony Brook?</span>  
 There are several computational linguistics programs across the country.
 The program at Stony Brook distinguishes itself through a unique philosophy.
 We believe that true progress in computational linguistics is impossible without a good scientific understanding of how language works.
@@ -194,26 +195,26 @@ Hence we strive to give students not just a computational toolbox to solve the p
 <!-- In addition, we closely collaborate with the [Department of Computer Science]() and the [Institute for Advanced Computational Science]() -->
 <!-- unique philosophy, close collaboration with CS and IACS, advisory board, internships, close mentoring -->
 
-**Do I need a BA in Linguistics or Computer Science?**  
+<span class="question">Do I need a BA in Linguistics or Computer Science?</span>  
 You need a BA, but we do not require a BA in a specific field.
 Computational linguistics is very diverse, so suitable applicants can come from very different backgrounds.
 Besides the obvious choices of linguistics and computer science, there's also mathematics, philosophy, sociology, or digital humanities, to name just a few.
 We do not rank applications based on how closely related the degree is to computational linguistics, but on how likely the applicant is to make for a great computational linguist.
 
-**So you teach to the lowest common denominator and if I already know linguistics and programming I won't learn anything new?**  
+<span class="question">So you teach to the lowest common denominator and if I already know linguistics and programming I won't learn anything new?</span>  
 No.
 It is true that we aim to accommodate students from very different backgrounds.
 But the courses are structured in such a way that more experienced students will learn new things, too.
 For example, *Computational Linguistics 1* acts as an introduction to Python in general, but it also covers specialized packages like NLTK that are specific to computational linguistics.
 Similarly, *Mathematical Methods* covers important mathematical concepts, but links them to specific applications in computational linguistics that even a mathematics or computer science BA won't have seen before.
 
-**But I already had several computational linguistics classes as an undergrad, your intro classes really are too basic for me!**  
+<span class="question">But I already had several computational linguistics classes as an undergrad, your intro classes really are too basic for me!</span>  
 We recognize that some exceptional students may already have an unusually rich background in certain areas.
 All students will be closely mentored to ensure optimal progression through the 3 semesters of the program.
 As part of this, every incoming student has to take basic skill assessment at the beginning of the first semester.
 Based on your performance, you and the M.A program director then decide if it makes sense for you to deviate from the standard course progression and substitute a more advanced class for one of the introductory courses.
 
-**I don't know any programming. Do I have a chance against the other applicants?**  
+<span class="question">I don't know any programming. Do I have a chance against the other applicants?</span>  
 Yes.
 
 First of all, keep in mind that computational linguistics involves lots of programming and computational data analysis, but not every computational linguistics job needs a software engineer.
@@ -227,28 +228,28 @@ What about a formal logic class?
 Or maybe statistics?
 A course that requires the ability to apply a formal system in a precise manner is a decent indicator of how hard it will be for you to learn some programming.
 
-**I hate math. Should I consider a career in computational linguistics?**  
+<span class="question">I hate math. Should I consider a career in computational linguistics?</span>  
 It depends.
 If your beef is with the typical number crunching of high school mathematics, then you do not need to worry because computational linguistics has very little of that.
 However, if your dislike for mathematics stems more from a general dislike for abstract systems, then computational linguistics may not be to your liking.
 Do you enjoy formal linguistics courses (syntax, semantics), programming, or analytical philosophy?
 Then the odds are pretty good that you'll handle the math-heavier parts of computational linguistics just fine.
 
-**Can I be enrolled in the program and still work a full-time job?**  
+<span class="question">Can I be enrolled in the program and still work a full-time job?</span>  
 No.
 Enrolled students are expected to spend a lot of time at the department --- not just for classes, but also for extracurricular activities, meetings with the program director, talks and social events, and so on.
 Most of that takes place on weekdays between 9am and 6pm, which is incompatible with a regular work schedule.
 
-**But isn't practical experience very important for landing a job?**  
+<span class="question">But isn't practical experience very important for landing a job?</span>  
 True, and that is why we make a concerted effort to organize internships for students during the summer break between the second and third semester.
 
-**I want to be a research scientist, should I go for a Ph.D. instead?**  
+<span class="question">I want to be a research scientist, should I go for a Ph.D. instead?</span>  
 A Ph.D. is a hard requirement for a researcher position in academia.
 For research groups in industry a Ph.D. is usually a strong advantage, but not always necessary.
 A reasonable strategy is to first get an M.A. in Computational Linguistics to test the waters.
 If after one year you are absolutely sure that you enjoy doing research in this area, you can apply for admission into a Ph.D. program. 
 
-**Can I transfer from the M.A. program into the Linguistics Ph.D. program at Stony Brook?**  
+<span class="question">Can I transfer from the M.A. program into the Linguistics Ph.D. program at Stony Brook?</span>  
 Yes and no.
 You can apply for admission to the Ph.D. even if you are already enrolled in the M.A. program.
 But your application will be evaluated as any other among the pool of applicants, being in the M.A. program does not grant you any special status. 
@@ -258,13 +259,13 @@ Students who want to pursue a Ph.D. program after their M.A. are encouraged to c
 
 ### Application
 
-**So what does the ideal candidate look like?**  
+<span class="question">So what does the ideal candidate look like?</span>  
 There is no such thing as an ideal candidate because computational linguistics is a broad field that covers very different kinds of activities and job profiles.
 The most important thing is that your application conveys that you have at least a rudimentary idea of what computational linguistics is like.
 This means having had prior exposure to the idea that language can be studied as a formal system, comparable to what is covered in an introductory course in linguistics.
 And it means having had some basic training in computational, algorithmic thinking, which covers a wide range of courses from philosophy over linguistics to computer science and mathematics.
 
-**Is there anything I can do to strengthen my application?**  
+<span class="question">Is there anything I can do to strengthen my application?</span>  
 When applying to any graduate program, the most important thing is that you have a good idea of what the program is like.
 You do not want to realize a few months in that the subject matter isn't really to your liking.
 Since computational linguistics combines linguistics and computer science, you should make sure to get some experience in each field.
@@ -272,13 +273,13 @@ If you have not had any contact with linguistics, take an intro class.
 If you have never done any programming, advanced mathematics or formal reasoning course, try a one-week intro to programming.
 Those will give you the required confidence that a computational linguistics M.A. is the right choice for you.
 
-**When should I apply?**  
+<span class="question">When should I apply?</span>  
 Admission decisions are made on a rolling basis starting **March 1**, and no applications will be accepted after **April 15**.
 Ideally, you will submit your application before the end of February.
 Once all the slots for a given year are filled, it is very difficult to admit additional students even if their application is very strong.
 For international students, an early application is particularly important because of the additional time that is needed for the visa process.
 
-**What should I submit as my writing sample?**  
+<span class="question">What should I submit as my writing sample?</span>  
 The writing sample serves multiple purposes.
 It demonstrates your ability to work on a larger project, to reason in a systematic fashion, and to clearly communicate your ideas to others.
 Computational linguistics is unique compared to other disciplines because the project may not just take the form of a small research project but could also be built around a programming project.
@@ -297,22 +298,22 @@ This is why we accept two different kinds of writing samples (only one of the tw
    The documentation should describe the general problem to be solved and important design aspects of the solution.
    It may also include future plans for new features.
 
-**Do GRE scores matter?**  
+<span class="question">Do GRE scores matter?</span>  
 The GRE is required for every graduate program at Stony Brook University.
 GRE scores are only a small part of the application package and not nearly as important as the letters of recommendation and the writing sample.
 
-**Do I have to take the GRE Mathematics Subject Test?**  
+<span class="question">Do I have to take the GRE Mathematics Subject Test?</span>  
 No, only the standard GRE is required.
 
-**Do I have to provide IELTS or TOEFL scores?**  
+<span class="question">Do I have to provide IELTS or TOEFL scores?</span>  
 All international students at Stony Brook University are required to demonstrate sufficient proficiency in English.
 For additional details, consult the [Graduate Bulletin](http://sb.cc.stonybrook.edu/gradbulletin/current/admissions/requirements/english.php).
 
-**Is there any financial support to cover the tuition?**  
+<span class="question">Is there any financial support to cover the tuition?</span>  
 Unfortunately Stony Brook University only offers financial support for Ph.D. students at this point.
 However, we hope to offer privately funded stipends for M.A. students in the future. 
 
-**I still have some questions. Who should I contact?**  
+<span class="question">I still have some questions. Who should I contact?</span>  
 All questions related to the Computational Linguistics M.A. program should be sent to the M.A. program director:
 
 Thomas Graf  

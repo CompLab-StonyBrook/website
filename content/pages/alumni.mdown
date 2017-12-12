@@ -1,11 +1,14 @@
 Title: Alumni
+page-order: 30
 Author: CompLab
 
-# M.A. Class of 2018
+[TOC]
+
+## M.A. Students
 
 Your picture could be here.
-Learn more about [our MA program in Computational Linguistics]({filename}/pages/programs.mdown).
+Learn more about [our M.A. program in Computational Linguistics]({filename}/pages/programs.mdown).
 
-<!-- # Ph.D. Students -->
-<!--  -->
-<!-- - Chong Zhang -->
+## Ph.D. Students
+
+Consider applying to the [Ph.D program in Linguistics](https://linguistics.stonybrook.edu/programs/graduate/phd).

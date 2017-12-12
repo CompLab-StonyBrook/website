@@ -1,10 +1,10 @@
 Title: Frontiers Talk by Kyle Gorman
 Author: CompLab
 Date: 2017-11-29
-Category: Events
+Category: Event
 Tags: invited speaker; NLP
 
-<img style="width:20%; float:right" src="{filename}/images/news/2017-11-29_gorman.png" />
+<img class="photo-right" src="{filename}/images/news/2017-11-29_gorman.png" />
 
 [Kyle Gorman](https://research.google.com/pubs/KyleGorman.html) will be giving a Frontiers talk in our department on November 29 at 4:00pm.
 Kyle got his Ph.D. in Linguistics from Penn University in 2013 and is now working in Google's research group on natural language processing in New York.

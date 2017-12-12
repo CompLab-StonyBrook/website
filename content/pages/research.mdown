@@ -1,9 +1,20 @@
 Title: Research
+page-order: 40
 Author: CompLab
 
 [TOC]
 
 ## Ongoing projects
+
+### Computational nature of natural language (Jeffrey Heinz)
+
+Languages are systems with but what kinds of systems are they? Heinz researches the interplay between the representations, rules and constraints that underlie natural language systems, particulary with respect to how sounds pattern within words and phrases in spoken languages.
+
+### Grammatical Inference (Jeffrey Heinz)
+
+Grammatical inference is a branch of computer science, which studies the problem of learning grammars from example words and sentences.
+Its roots are in theoretical computer science, computational learning theory and machine learning.
+Heinz works on developing grammatical inference algorithms which incorporate the computational nature of natural language.
 
 ### Computational syntax (Thomas Graf)
 

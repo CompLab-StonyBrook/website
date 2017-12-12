@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ page.title|striptags|e }} {%if page.subtitle %} - {{ page.subtitle|striptags|e }} {% endif %} · {{ super() }}
+{% endblock title %}
+
+{% block head_description %}
+{% if page.summary %}
+{{ page.summary|striptags|e }}
+{% endif %}
+{% endblock head_description %}
+
+{% block meta_tags_in_head %}
+{{ super() }}
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}" />
+{% endif %}
+
+{% from '_includes/smo_metadata.html' import smo_metadata with context %}
+{{ smo_metadata(page) }}
+{% endblock meta_tags_in_head %}
+
+{% block content %}
+<article>
+
+<div class="row-fluid">
+    <div class="table-of-content">
+        <header class="page-header">
+        <h1><a href="{{ SITEURL }}/{{ page.url }}"> {{ page.title }} {%if page.subtitle %} <small> {{ page.subtitle }} </small> {% endif %} </a></h1>
+        </header>
+        {% if page.toc %}
+        <nav>
+        {{ page.toc }}
+        </nav>
+        {% endif %}
+    </div>
+    <div class="page-content">
+        {{ page.content }}
+    </div>
+</div>
+</article>
+{% endblock content %}

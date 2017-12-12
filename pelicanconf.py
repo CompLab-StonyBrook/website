@@ -52,7 +52,7 @@ MARKDOWN = {
 }
 
 # Theme
-THEME = 'themes/elegant'
+THEME = 'themes/sbu'
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
@@ -80,15 +80,16 @@ PROJECTS = [{
 
 # Custom Menu
 DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
+PAGE_ORDER_BY = 'page-order'
 
-MENUITEMS = (
-    ('Programs', '/pages/programs.html'),
-    ('People', '/pages/people.html'),
-    ('Alumni', '/pages/alumni.html'),
-    ('Research', '/pages/research.html'),
-    ('Software & Resources', '/pages/software-resources.html'),
-)
+# MENUITEMS = (
+#     ('Programs', '/pages/programs.html'),
+#     ('People', '/pages/people.html'),
+#     ('Alumni', '/pages/alumni.html'),
+#     ('Research', '/pages/research.html'),
+#     ('Resources', '/pages/software-resources.html'),
+# )
 
 # Tricks to deal with special files
 STATIC_PATHS = ['theme/images', 'images', 'doc', 'extra/CNAME', 'extra/README.md']
