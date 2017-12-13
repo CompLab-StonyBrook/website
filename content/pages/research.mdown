@@ -6,15 +6,18 @@ Author: CompLab
 
 ## Ongoing projects
 
-### Computational nature of natural language (Jeffrey Heinz)
+### Automatic speech analysis (Jiwon Yun)
 
-Languages are systems with but what kinds of systems are they? Heinz researches the interplay between the representations, rules and constraints that underlie natural language systems, particulary with respect to how sounds pattern within words and phrases in spoken languages.
+A crucial step in developing a theoretical framework of sentence melody is to analyze a large amount of spoken data from typologically diverse languages.
+But manual methods in speech analysis are labor-intensive and often inconsistent.
+Yun works on developing computational methods to efficiently analyze big speech data.
 
-### Grammatical Inference (Jeffrey Heinz)
+### Computational complexity of natural language (Thomas Graf, Jeffrey Heinz)
 
-Grammatical inference is a branch of computer science, which studies the problem of learning grammars from example words and sentences.
-Its roots are in theoretical computer science, computational learning theory and machine learning.
-Heinz works on developing grammatical inference algorithms which incorporate the computational nature of natural language.
+Languages are highly complex and fine-grained systems, which raises the question how the human mind can so effortlessly make use of language.
+What kind of computational mechanisms underpin and drive language?
+Graf & Heinz research the interplay between the representations, rules and constraints that underlie natural language systems.
+Heinz focuses primarily on how sounds pattern within words and phrases in spoken languages, whereas Graf studies the computational challenges of assembling words into well-formed sentences.
 
 ### Computational syntax (Thomas Graf)
 
@@ -23,13 +26,25 @@ Sentence structure is one of the hardest problems in natural language processing
 Models that build fine-grained structures with high accuracy are too slow for most tasks, whereas existing quick-and-dirty models are only suitable for very simple problems.
 Thomas Graf is trying to design new models that combine computational simplicity with linguistic accuracy.
 He approaches this issue by learning directly from nature: since humans handle syntax very well, the best computer models will be those that operate similar to humans.
-To achieve this goal, Thomas draws heavily from theoretical linguistics, typology, and formal language theory.
+To achieve this goal, Graf draws heavily from theoretical linguistics, typology, and formal language theory.
 
-### Modelling syntactic processing (Thomas Graf)
+### Grammatical Inference (Jeffrey Heinz)
+
+Grammatical inference is a branch of computer science, which studies the problem of learning grammars from example words and sentences.
+Its roots are in theoretical computer science, computational learning theory and machine learning.
+Heinz works on developing grammatical inference algorithms which incorporate the computational nature of natural language.
+
+### Modeling language prosody (Jiwon Yun)
+
+Sentence melody, called *prosody*, plays an essential role in conveying information correctly and efficiently.
+However, prosody is often considered to be difficult to analyze objectively due to its vague nature.
+Yun assumes that prosody is a formal property of human language and works to establish a scientific model that systematically describes language prosody.
+
+### Modeling syntactic processing (Thomas Graf)
 
 One central strength of computational approaches is that they make it possible to run computational simulations to better understand the behavior of very complex systems.
-Thomas Graf is using such simulations to better understand how humans process sentences.
+Graf is using such simulations to probe how humans process sentences.
 A sentence isn't just a sequence of words, underneath the surface lies a very complex hidden structure, a "sentence molecule".
 Some sentence molecules are easy to build for humans, while others are difficult; and the difficulty seems to be closely related to the shape of the molecules.
-Using insights from theoretical linguistics to formalize the notion of sentence molecules, Thomas is probing which structural properties make some molecules more difficult for humans.
+Using insights from theoretical linguistics to formalize the notion of sentence molecules, Graf is probing which structural properties make some molecules more difficult for humans.
 This sheds new light on how language is computed by humans, and this in turn will allow computers to evaluate how easy sentences are to read and comprehend.
