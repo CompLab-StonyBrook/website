@@ -19,6 +19,16 @@ What kind of computational mechanisms underpin and drive language?
 Graf & Heinz research the interplay between the representations, rules and constraints that underlie natural language systems.
 Heinz focuses primarily on how sounds pattern within words and phrases in spoken languages, whereas Graf studies the computational challenges of assembling words into well-formed sentences.
 
+### Computational phonology (Jeffrey Heinz)
+
+Phonology is the study of the pronunciations of morphemes, words, and phrases in natural languages.
+These pronunciations exhibit systematic regularities, which vary from one language to another.
+There are two scientific mysteries regarding these regularities which are the focus of Jeff Heinz's research.
+One is that they are learned but not taught.
+No one is explicitly taught the "sound pattern" or "accent" of their native language.
+The second is the search for universal principles that simultaneously recognize and constrain the impressive diversity of phonological patterns in the world's languages.
+Jeff's research on the computational nature of phonological patterns, which draws from automata theory, formal languages, grammatical inference, and mathematical logic, sheds light on both of these mysteries.
+
 ### Computational syntax (Thomas Graf)
 
 *Syntax* refers to those parts of language that are related to sentence structure.
