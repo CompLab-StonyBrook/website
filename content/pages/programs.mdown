@@ -25,7 +25,7 @@ Our M.A. program in Computational Linguistics is designed to prepare students fr
 ## Overview of the program
 
 Our 3-semester program is designed to get students with little background in linguistics and programming to a level where they are ready to take on an internship after two semesters and enter the job market at the end of the third semester.
-As one of our graduates, you will have acquire core competencies in programming, algorithms and data structures, advanced mathematics (algebra, logic, statistics), linguistic theories of sound and grammar (syntax, phonetics, phonology) and the computational analysis of natural language (automata theory, complexity theory).
+As one of our graduates, you will have acquired core competencies in programming, algorithms and data structures, advanced mathematics (algebra, logic, statistics), linguistic theories of sound and grammar (syntax, phonetics, phonology) and the computational analysis of natural language (automata theory, complexity theory).
 You will also have practical experience with existing software solutions and toolkits that are widely used in the industry.
 This diverse, interdisciplinary skill set will allow you to take on a variety of positions in the IT sector.
 You will be able to evaluate existing solutions with respect to their linguistic adequacy as well as design and implement new solutions in a rapid prototyping environment.
@@ -55,7 +55,7 @@ The full list of courses is as follows:
 
 1.  **Core courses** (12 credits)
     1. Computational Linguistics 1 (LIN 537)
-    1. Computational Linguistics 1 (LIN 637)
+    1. Computational Linguistics 2 (LIN 637)
     1. Phonetics (LIN 522) or Phonology I (LIN 523)
     1. Syntax I (LIN 521)
 
