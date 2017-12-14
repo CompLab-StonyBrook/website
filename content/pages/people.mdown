@@ -124,7 +124,7 @@ Author: CompLab
       <div class="person-info">
         <h3>H. Andrew Schwartz</h3>
         <p class="person-institute">Department of Computer Science</p>
-        <p>Computational phonology, learnability, formal language theory</p>
+        <p>Natural language processing, Computational social science</p>
       </div>
     </div>
   </div>
