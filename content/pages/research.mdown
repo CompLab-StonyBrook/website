@@ -38,7 +38,7 @@ Thomas Graf is trying to design new models that combine computational simplicity
 He approaches this issue by learning directly from nature: since humans handle syntax very well, the best computer models will be those that operate similar to humans.
 To achieve this goal, Graf draws heavily from theoretical linguistics, typology, and formal language theory.
 
-### Grammatical Inference (Jeffrey Heinz)
+### Grammatical inference (Jeffrey Heinz)
 
 Grammatical inference is a branch of computer science, which studies the problem of learning grammars from example words and sentences.
 Its roots are in theoretical computer science, computational learning theory and machine learning.
