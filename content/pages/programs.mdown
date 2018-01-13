@@ -13,8 +13,7 @@ There are two sides to this:
     This includes voice recognition, machine translation, chatbots, automatic text generation and summarization, web search, ad placement, stylistic analysis, and much more.
 
 1.  *Science: Computational analysis of language*  
-    The human brain is a highly sophisticated computer that is capable of effortlessly solving very complex tasks.
-    By investigating what computations humans must be carrying out when they use language, we learn new techniques for solving language-related problems with computers.
+    Humans routinely solve complex problems involving natural language every day when they talk and listen to others. Computational analysis of the unconscious knowledge humans effortlessly use to process natural language has led to the discovery of laws underlying cognition. The science of language also informs the development of new computational techniques for solving language-related problems.
 
 Both sides of computational linguistics have seen an enormous boom in recent years.
 Computational linguists are highly sought after in industry, and more and more positions in academia require a strong computational background.
