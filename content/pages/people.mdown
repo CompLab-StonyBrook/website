@@ -118,7 +118,7 @@ Author: CompLab
     <div class="person-card">
       <div class="person-photo">
           <a href="https://www3.cs.stonybrook.edu/~has/index.html">
-              <img src="{filename}/images/people/andrew_schwartz.png" alt="H. Andrew Schwartz">
+              <img src="{filename}/images/people/andrew_schwartz.jpg" alt="H. Andrew Schwartz">
           </a>
       </div>
       <div class="person-info">
