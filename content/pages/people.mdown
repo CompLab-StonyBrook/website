@@ -72,7 +72,7 @@ Author: CompLab
       <div class="person-info">
         <h3>Jiwon Yun</h3>
         <p class="person-institute">Department of Linguistics</p>
-        <p>Computational syntax and semantics, Corpus methods</p>
+        <p>Computational syntax and semantics, Speech analysis, Corpus methods</p>
         <p>
             <a href="mailto:jiwon.yun@stonybrook.edu">jiwon.yun@stonybrook.edu</a>
         </p>
