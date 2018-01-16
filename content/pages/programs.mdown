@@ -60,7 +60,7 @@ The full list of courses is as follows:
 
 1.  **Formal methods requirement** (3 credits)  
     One (1) of the following:
-    1. Mathematical Methods (LIN 539)
+    1. Mathematical Methods in Linguistics (LIN 539)
     1. Statistics (LIN 538)
 
 1.  **Linguistics requirement** (3 credits)  
