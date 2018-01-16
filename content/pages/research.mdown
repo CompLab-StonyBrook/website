@@ -10,13 +10,13 @@ Author: CompLab
 
 A crucial step in developing a theoretical framework of sentence melody is to analyze a large amount of spoken data from typologically diverse languages.
 But manual methods in speech analysis are labor-intensive and often inconsistent.
-Yun works on developing computational methods to efficiently analyze big speech data.
+Jiwon Yun works on developing computational methods to efficiently analyze big speech data.
 
 ### Computational complexity of natural language (Thomas Graf, Jeffrey Heinz)
 
 Languages are highly complex and fine-grained systems, which raises the question how the human mind can so effortlessly make use of language.
 What kind of computational mechanisms underpin and drive language?
-Graf & Heinz research the interplay between the representations, rules and constraints that underlie natural language systems.
+Thomas Graf and Jeffrey Heinz research the interplay between the representations, rules and constraints that underlie natural language systems.
 Heinz focuses primarily on how sounds pattern within words and phrases in spoken languages, whereas Graf studies the computational challenges of assembling words into well-formed sentences.
 
 ### Computational phonology (Michael Becker, Jeffrey Heinz)
@@ -43,13 +43,13 @@ To achieve this goal, Graf draws heavily from theoretical linguistics, typology,
 
 Grammatical inference is a branch of computer science, which studies the problem of learning grammars from example words and sentences.
 Its roots are in theoretical computer science, computational learning theory and machine learning.
-Heinz works on developing grammatical inference algorithms which incorporate the computational nature of natural language.
+Jeffrey Heinz works on developing grammatical inference algorithms which incorporate the computational nature of natural language.
 
 ### Modeling language prosody (Jiwon Yun)
 
 Sentence melody, called *prosody*, plays an essential role in conveying information correctly and efficiently.
 However, prosody is often considered to be difficult to analyze objectively due to its vague nature.
-Yun assumes that prosody is a formal property of human language and works to establish a scientific model that systematically describes language prosody.
+Jiwon Yun assumes that prosody is a formal property of human language and works to establish a scientific model that systematically describes language prosody.
 
 ### Modeling syntactic processing (Thomas Graf)
 
