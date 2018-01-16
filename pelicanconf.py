@@ -67,7 +67,7 @@ PROJECTS = [{
     'url': 'jeffrey.heinz@stonybrook.edu',
     'description': 'Jeffrey Heinz'},
     {'name': 'M.A. Program Director',
-     'url': 'ma@thomasgraf.net',
+     'url': 'maprogram@thomasgraf.net',
      'description': 'Thomas Graf'},
     {'name': 'Website Administrator',
      'url': 'website@thomasgraf.net',
