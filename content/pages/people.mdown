@@ -36,7 +36,7 @@ Author: CompLab
       <div class="person-info">
         <h3>Thomas Graf</h3>
         <p class="person-institute">Department of Linguistics & Institute for Advanced Computational Science</p>
-        <p>Computational phonology, morphology and syntax, Formal language theory</p>
+        <p>Computational syntax, morphology and phonology, Formal language theory</p>
         <p>
             <a href="mailto:mail@thomasgraf.net">mail@thomasgraf.net</a>
         </p>
