@@ -602,15 +602,34 @@ ul.list-articles-category li time {
 *  Index  *
 ***********/
 
+.index-photo {
+    float: left;
+    width: 65%;
+}
+
 .index-blurb {
     float: left;
     width: 65%;
+    margin-bottom: 20px;
 }
 
 .contact {
     float: right;
     width: 25%;
     line-height: 20px;
+}
+
+.index-brochure {
+    float: right;
+    width: 25%;
+}
+
+#img-groupphoto,
+#img-brochure {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .news {
@@ -643,11 +662,20 @@ ul.list-articles-category li time {
 }
 
 @media (max-width: 1000px) {
+    .index-photo {
+        width: 100%;
+    }
+
     .index-blurb {
         width: 100%;
     }
 
     .contact {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .index-brochure {
         width: 100%;
         margin-bottom: 20px;
     }
