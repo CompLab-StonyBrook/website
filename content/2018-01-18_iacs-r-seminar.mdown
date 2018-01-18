@@ -1,0 +1,13 @@
+Title: IACS Workshop on Programming in R
+Author: CompLab
+Date: 2018-01-18
+Category: News
+Tags: students; courses
+
+IACS is offering a 2-day workshop on R programming for beginners.
+The first workshop on January 20 & 21 filled up very fast, [another one will be offered on January 27 & 28](https://www.iacs.stonybrook.edu/event/workshops/iacs-bootcamp-r-programming-for-beginners-2):
+
+>This bootcamp is designed for an absolute beginner to the R programming language.
+>We will start by learning basic data types and operations, which will be followed by a fast introduction into loops and conditional statements.
+>More advanced topics will include getting acquainted with base functions in R, as well as writing your own functions, and an introduction to creating simple plots.
+>This bootcamp will provide you with the first necessary tools on the long road to becoming a more proficient programmer in the R language.
