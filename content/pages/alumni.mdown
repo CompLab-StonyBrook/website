@@ -4,11 +4,11 @@ Author: CompLab
 
 [TOC]
 
-## M.A. Students
+## M.A. students
 
 Your picture could be here.
 Learn more about [our M.A. program in Computational Linguistics]({filename}/pages/programs.mdown).
 
-## Ph.D. Students
+## Ph.D. students
 
 Consider applying to the [Ph.D program in Linguistics](https://linguistics.stonybrook.edu/programs/graduate/phd).

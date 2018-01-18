@@ -4,7 +4,7 @@ Author: CompLab
 
 [TOC]
 
-## Lecture Notes
+## Lecture notes
 
 - [Language and Technology](http://lin120.thomasgraf.net) (LIN 120)
 - [Computational Linguistics 1](https://github.com/CompLab-StonyBrook/CompLing_1) (LIN 537)
@@ -13,7 +13,7 @@ Author: CompLab
 - [Parsing and Processing](http://lin630.thomasgraf.net) (LIN 630)
 - [Skillz hour: Git Training](https://github.com/CompLab-StonyBrook/git_training)
 
-## Recommended Readings
+## Recommended readings
 
 <img style="width:20%" src="{filename}/images/books/bender.jpg" />
 <br />
