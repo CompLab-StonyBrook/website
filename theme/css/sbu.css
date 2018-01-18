@@ -92,7 +92,7 @@ img {
 .branding {
     clear: both;
     width: 100%;
-    height: 80px;
+    height: auto;
     margin-top: 12px;
 }
 
@@ -102,11 +102,18 @@ img {
     padding-right: 16px;
     border-right: 1px solid #333;
     margin-right: 16px;
+    margin-top: 12px;
 }
 
 .labname {
+    float: left;
     width: auto;
-    padding-top: 16px; 
+    padding-top: 26px;
+}
+
+.linglogo {
+    float: left;
+    padding-left:20px;
 }
 
 a.brand {
@@ -172,7 +179,8 @@ ul.top-menu {
 
     .logo {
         width: 100%;
-        margin: 0;
+        margin-top: 12px;
+        margin-bottom: 12px;
         padding: 0;
         text-align: center;
         border: 0;
@@ -180,7 +188,16 @@ ul.top-menu {
 
     .labname {
         width: 100%;
-        margin: 0;
+        margin-top: 12px;
+        margin-bottom: 12px;
+        padding: 0;
+        text-align: center;
+    }
+
+    .linglogo {
+        width: 100%;
+        margin-top: 12px;
+        margin-bottom: 12px;
         padding: 0;
         text-align: center;
     }
