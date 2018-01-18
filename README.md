@@ -77,7 +77,8 @@ Workflow
 1.  Add new files to the `content` folder as you see fit.
 1.  Run `make devserver` to create a local version of the website.
     You can view it in your browser at the address `localhost:8000`.
-1.  If everything looks fine, push the created website to github with `make github`.
+1.  If everything looks fine, stop the local server with `make stopserver`.
+1.  Push the created website to github with `make github`.
     This only pushes the contents of the `output` folder to the `gh-pages` branch.
     See the next step for how to push the source files.
 1.  Use `git add` and `git commit` as usual to commit the changes in the `content` folder.
