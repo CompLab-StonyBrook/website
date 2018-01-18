@@ -56,9 +56,6 @@ If you're affiliated with Stony Brook University, you can download a [virtual ma
     pip install beautifulsoup4
     ~~~~
 
-1.  A recent version of `pandoc-citeproc` (1.17 or newer) if you want to use the bibtex converter.
-    
-
 File Structure
 --------------
 
@@ -74,44 +71,14 @@ The most important ones are:
 - *Makefile*: set of instructions for building the website;
   you might want to change the value for `GITHUB_PAGES_BRANCH` depending on your Pelican workflow
 
-In addition, the *bib* folder contains a number of shell scripts (fully sh-compatible), and a subfolder with specific info on each bibtex entry.
+Workflow
+--------
 
-
-Shell Scripts
--------------
-
-All the shell scripts use mostly standard commands such as `cat`, `grep`, `sed`, and `awk`, and they do not use any bashisms.
-The one exception is `bib2mdown`, which uses `pandoc-citeproc` to convert the bibtex file into a markdown file using the style sheet *mylanguage.cls*.
-Since `bib2mdown` is called in one way or another by every other script, you absolutely need to have pandoc installed.
-
-Here's a description of each script:
-
-1. `bib2mdown` takes a bibtex file as input and returns a markdown file.
-   The output produced by pandoc is pretty bad, so a major dose of sed magic is applied after the initial pandoc-conversion step.
-   The following tweaks are applied:
-
-     - add doi links
-     - rip out all other links since doi is more reliable 
-     - add link to pdf, if it exists
-     - add link to detailed blog entry
-     - list can be bulleted, numbered, or reverse numbered
-     - remove remnants of Latex commands
-     - fix some formatting errors
-
-1. `bib2blog` produces a blog entry for a given entry in a bibtex file (with the help of `bib2mdown`).
-   It automatically assigns it the right category (books, talks, or papers) and saves it to the corresponding subfolder (*talks* for talks, and *papers* for books and papers).
-   It also checks whether there is a folder with the same bibkey in `auxfiles`, and loads the abstract, tags, and date from the files in this folder, if it exists.
-   It also looks for an archive with the source code in `doc/talks` or `doc/papers` and adds the corresponding link.
-   All of that is then put together into a nice entry
-
-1. `create_bibliography` takes two bibtex files as input, one for publications and one for presentations.
-   It then uses `bib2mdown` to produce the Output page of the website.
-
-1. `create_bibkey` runs `bib2blog` for every bibtex key in a bibtex file.
-
-1. `compile_references` runs `create_bibliography` and `create_bibkey` on my bibtex files.
-   If everything is configured correctly, this is the only script that needs to be run, all others will be called as needed.
-
-All scripts except `compile_references` take command line arguments and can be altered via various options.
-Just run them with ``--help`` to learn more.
-You can also change the variables at the top of each script to adapt it to your use case.
+1.  Add new files to the `content` folder as you see fit.
+1.  Run `make devserver` to create a local version of the website.
+    You can view it in your browser at the address `localhost:8000`.
+1.  If everything looks fine, push the created website to github with `make github`.
+    This only pushes the contents of the `output` folder to the `gh-pages` branch.
+    See the next step for how to push the source files.
+1.  Use `git add` and `git commit` as usual to commit the changes in the `content` folder.
+    Then run `git push origin master`.
