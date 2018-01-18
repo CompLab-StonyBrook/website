@@ -5,7 +5,7 @@ Author: CompLab
 [TOC]
 
 
-## Core Faculty
+## Core faculty
 
 <div class="person-row">
   <div class="person-column">
@@ -130,6 +130,12 @@ Author: CompLab
   </div>
 </div>
 
+## Advisory board
+
+- [Brigitta Fodor](https://www.linkedin.com/in/brigitta-fodor-818603116) (Amazon)
+- [Kyle Gorman](https://research.google.com/pubs/KyleGorman.html) (Google)
+- [Chong Zhang](https://www.linkedin.com/in/chong-zhang-59846334) (Kasisto)
+
 <!-- - Susan Brennan -->
 <!-- - Danny Yogitama -->
 
@@ -143,18 +149,11 @@ Author: CompLab
 <!-- We will have our first incoming class in Fall 2018. -->
 
 <!-- ### Ph.D. -->
-<!--  -->
 <!-- - Alëna Aksënova -->
 <!-- - Aniello De Santo -->
 <!-- - Hossep Dolatian -->
+<!-- - Jon Rawski -->
 
 <!-- ## Advisory board -->
-<!-- - Alumni -->
-<!--     - Brigitta Fodor (Amazon, Boston) -->
-<!--     - Chong Zhang (Kasisto, NYC) -->
-<!-- - Industry -->
-<!--     - Kyle Gorman (Google, NYC) -->
 <!--     - Owen Rambow (Elemental Cognition, NYC) -->
 <!--     - Marisa Ferrara-Boston (KPMG, Detroit & NYC) -->
-<!-- - Academia -->
-<!--     - Emily Bender (University of Washington) -->
