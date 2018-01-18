@@ -33,6 +33,29 @@
 {% from '_includes/_defaults.html' import PROJECTS with context %}
 <div class="row-fluid">
     <div class="landing-page">
+        <div class="index-photo">
+            <img id="img-groupphoto" src="./images/group_photo.jpg" alt="Group picture">
+        </div>
+        <div class="contact">
+            <header>
+            <h2>Contact</h2>
+            </header>
+            {% for contact in PROJECTS %}
+            <ul class="contact-list">
+                <li>
+                    <span class="contact-name">{{ contact .name }}
+                    </span>
+                    <br />
+                    <span class="contact-description">{{ contact.description }}
+                    </span>
+                    <br />
+                    <a href="mailto:{{ contact.url }}" title="{{ contact.name }}">
+                    {{ contact.url }}
+                    </a>
+                </li>
+            </ul>
+            {%endfor %}
+        </div>
         <div class="index-blurb">
             <h2>Welcome to the Computational Linguistics Lab!</h2>
             <p>
@@ -54,25 +77,10 @@
             </p>
         </div>
 
-        <div class="contact">
-            <header>
-            <h2>Contact</h2>
-            </header>
-            {% for contact in PROJECTS %}
-            <ul class="contact-list">
-                <li>
-                    <span class="contact-name">{{ contact .name }}
-                    </span>
-                    <br />
-                    <span class="contact-description">{{ contact.description }}
-                    </span>
-                    <br />
-                    <a href="mailto:{{ contact.url }}" title="{{ contact.name }}">
-                    {{ contact.url }}
-                    </a>
-                </li>
-            </ul>
-            {%endfor %}
+        <div class="index-brochure">
+            <a href="./doc/other/brochure.pdf">
+                <img id="img-brochure" src="./images/brochure.jpg" alt="MA program brochure">
+            </a>
         </div>
     </div>
 
