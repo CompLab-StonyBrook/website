@@ -151,6 +151,82 @@ Author: CompLab
 <!-- We will have our first incoming class in Fall 2018. -->
 
 <!-- ### Ph.D. -->
+<div class="person-row">
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="https://www.aaksenova.com/">
+              <img src="{filename}/images/people/alena_aksenova.jpg" alt="Alena Aksenova">
+          </a>
+      </div>
+      <div class="person-info">
+        <h3>Alëna Aksënova</h3>
+        <p class="person-institute">Department of Linguistics & Institute for Advanced Computational Science</p>
+        <p>Computational morphology, computational phonology, Formal language theory</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="https://aniellodesanto.github.io">
+              <img src="{filename}/images/people/aniello_desanto.jpg" alt="Aniello De Santo">
+          </a>
+      </div>
+      <div class="person-info">
+        <h3>Aniello De Santo</h3>
+        <p class="person-institute">Department of Linguistics & Institute for Advanced Computational Science</p>
+        <p>Computational syntax, Computational phonology, Formal language theory, Computational neuroscience</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="https://you.stonybrook.edu/deovlet">
+              <img src="{filename}/images/people/hossep_dolatian.jpg" alt="Hossep Dolatian">
+          </a>
+      </div>
+      <div class="person-info">
+        <h3>Hossep Dolation</h3>
+        <p class="person-institute">Department of Linguistics & Institute for Advanced Computational Science</p>
+        <p>Computational morphology, computational phonology</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="https://linguistics.stonybrook.edu/students/so.young.lee">
+              <img src="{filename}/images/people/soyoung_lee.jpg" alt="So Young Lee">
+          </a>
+      </div>
+      <div class="person-info">
+        <h3>So Young Lee</h3>
+        <p class="person-institute">Department of Linguistics</p>
+        <p>Syntax-semantics interface, prosody, computational linguistics, neurolinguistics</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="person-column">
+    <div class="person-card">
+      <div class="person-photo">
+          <a href="https://jrawski.jimdo.com/">
+              <img src="{filename}/images/people/jon_rawski.jpg" alt="Jon Rawski">
+          </a>
+      </div>
+      <div class="person-info">
+        <h3>Jon Rawski</h3>
+        <p class="person-institute">Department of Linguistics & Institute for Advanced Computational Science</p>
+        <p>Computational phonology, Learnability, Computational neuroscience</p>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- - Alëna Aksënova -->
 <!-- - Aniello De Santo -->
 <!-- - Hossep Dolatian -->
