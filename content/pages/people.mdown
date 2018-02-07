@@ -132,8 +132,10 @@ Author: CompLab
 
 ## Advisory board
 
+- [Marisa Ferrara Boston](https://www.linkedin.com/in/marisa-ferrara-boston-9a414129) (KPMG)
 - [Brigitta Fodor](https://www.linkedin.com/in/brigitta-fodor-818603116) (Amazon)
 - [Kyle Gorman](https://research.google.com/pubs/KyleGorman.html) (Google)
+- [Masoud Rouhizadeh](http://www.mrouhizadeh.com/) (John Hopkins University)
 - [Chong Zhang](https://www.linkedin.com/in/chong-zhang-85b95437/) (Kasisto)
 
 <!-- - Susan Brennan -->
@@ -153,7 +155,3 @@ Author: CompLab
 <!-- - Aniello De Santo -->
 <!-- - Hossep Dolatian -->
 <!-- - Jon Rawski -->
-
-<!-- ## Advisory board -->
-<!--     - Owen Rambow (Elemental Cognition, NYC) -->
-<!--     - Marisa Ferrara-Boston (KPMG, Detroit & NYC) -->
