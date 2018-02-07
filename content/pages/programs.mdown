@@ -151,7 +151,14 @@ For admission to the M.A. program in Computational Linguistics, the following ar
 1.  **Baccalaureate degree**  
     A baccalaureate degree is required.
     Students must present evidence that such a degree will be awarded by the time they begin graduate work.
-    A final transcript is also required prior to registration.
+    A final transcript is also required prior to registration and should be mailed to:
+
+    Michelle Carbone
+    Department of Linguistics
+    Room: S-201
+    Social & Behavioral Sciences Building
+    Stony Brook University
+    Stony Brook, NY 11794-4376
 
 1.  **Cumulative GPA > 3.0**  
     A minimum cumulative grade point average of 3.0 (or its foreign equivalent) on a four-point scale.
@@ -163,7 +170,8 @@ For admission to the M.A. program in Computational Linguistics, the following ar
 
 1.  **Graduate Record Examination (GRE)**  
     There is no subject test for computational linguistics; the general test is all that is required.
-    Please have the testing service send a copy of your score to the Linguistics Department.
+    Please request that ETS send official score reports to Stony Brook University (School code 2548) and the Department of Linguistics (code 2903).
+    Note that paper copies are neither required nor accepted by the Graduate School, only official score reports by ETS are required. 
 
 1.  **Writing sample**  
     The writing sample may take one of two forms:
@@ -303,9 +311,10 @@ GRE scores are only a small part of the application package and not nearly as im
 
 <span class="question">Do I have to take the GRE Mathematics Subject Test?</span>  
 No, only the standard GRE is required.
+Note that there is no subject test for computational linguistics.
 
 <span class="question">Do I have to provide IELTS or TOEFL scores?</span>  
-All international students at Stony Brook University are required to demonstrate sufficient proficiency in English.
+If your native or primary language is not English, English proficiency must be established based on the results of your TOELF or IELTS examinations.
 For additional details, consult the [Graduate Bulletin](http://sb.cc.stonybrook.edu/gradbulletin/current/admissions/requirements/english.php).
 
 <span class="question">Is there any financial support to cover the tuition?</span>  
@@ -313,7 +322,11 @@ Unfortunately Stony Brook University only offers financial support for Ph.D. stu
 However, we hope to offer privately funded stipends for M.A. students in the future. 
 
 <span class="question">I still have some questions. Who should I contact?</span>  
-All questions related to the Computational Linguistics M.A. program should be sent to the M.A. program director:
+For administrative questions regarding the application process, please contact Michelle Carbone:
+
+[michelle.carbone.1@stonybrook.edu](mailto:michelle.carbone.1@stonybrook.edu)
+
+All other questions related to the Computational Linguistics M.A. program should be sent to the M.A. program director:
 
 Thomas Graf  
 [mail@thomasgraf.net](mailto:mail@thomasgraf.net)
