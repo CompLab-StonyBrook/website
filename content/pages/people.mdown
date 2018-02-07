@@ -130,14 +130,6 @@ Author: CompLab
   </div>
 </div>
 
-## Advisory board
-
-- [Marisa Ferrara Boston](https://www.linkedin.com/in/marisa-ferrara-boston-9a414129) (KPMG)
-- [Brigitta Fodor](https://www.linkedin.com/in/brigitta-fodor-818603116) (Amazon)
-- [Kyle Gorman](https://research.google.com/pubs/KyleGorman.html) (Google)
-- [Masoud Rouhizadeh](http://www.mrouhizadeh.com/) (John Hopkins University)
-- [Chong Zhang](https://www.linkedin.com/in/chong-zhang-85b95437/) (Kasisto)
-
 <!-- - Susan Brennan -->
 <!-- - Danny Yogitama -->
 
@@ -145,12 +137,12 @@ Author: CompLab
 
 <!-- - Andrei Antonenko -->
 
-<!-- ## Students -->
+## Students
 
-<!-- ### M.A. -->
-<!-- We will have our first incoming class in Fall 2018. -->
+### M.A.
+We will have our first incoming class in Fall 2018.
 
-<!-- ### Ph.D. -->
+### Ph.D.
 <div class="person-row">
   <div class="person-column">
     <div class="person-card">
@@ -227,7 +219,12 @@ Author: CompLab
     </div>
   </div>
 </div>
-<!-- - Alëna Aksënova -->
-<!-- - Aniello De Santo -->
-<!-- - Hossep Dolatian -->
-<!-- - Jon Rawski -->
+
+
+## Advisory board
+
+- [Marisa Ferrara Boston](https://www.linkedin.com/in/marisa-ferrara-boston-9a414129) (KPMG)
+- [Brigitta Fodor](https://www.linkedin.com/in/brigitta-fodor-818603116) (Amazon)
+- [Kyle Gorman](https://research.google.com/pubs/KyleGorman.html) (Google)
+- [Masoud Rouhizadeh](http://www.mrouhizadeh.com/) (John Hopkins University)
+- [Chong Zhang](https://www.linkedin.com/in/chong-zhang-85b95437/) (Kasisto)
