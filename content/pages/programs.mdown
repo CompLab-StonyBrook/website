@@ -153,11 +153,11 @@ For admission to the M.A. program in Computational Linguistics, the following ar
     Students must present evidence that such a degree will be awarded by the time they begin graduate work.
     A final transcript is also required prior to registration and should be mailed to:
 
-    Michelle Carbone
-    Department of Linguistics
-    Room: S-201
-    Social & Behavioral Sciences Building
-    Stony Brook University
+    Michelle Carbone  
+    Department of Linguistics  
+    Room: S-201  
+    Social & Behavioral Sciences Building  
+    Stony Brook University  
     Stony Brook, NY 11794-4376
 
 1.  **Cumulative GPA > 3.0**  
