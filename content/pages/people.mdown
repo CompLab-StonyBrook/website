@@ -182,7 +182,7 @@ We will have our first incoming class in Fall 2018.
           </a>
       </div>
       <div class="person-info">
-        <h3>Hossep Dolation</h3>
+        <h3>Hossep Dolatian</h3>
         <p class="person-institute">Department of Linguistics & Institute for Advanced Computational Science</p>
         <p>Computational morphology, computational phonology</p>
       </div>
