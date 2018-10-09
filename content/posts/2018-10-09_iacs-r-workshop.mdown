@@ -1,0 +1,11 @@
+Title: Register for IACS Workshop on Programming in R
+Author: CompLab
+Date: 2018-10-09
+Category: Event
+Tags: students; courses
+
+IACS is again offering a 2-day workshop on R programming for beginners.
+The workshop will take place on October 22 and 23.
+**Registration is required.**
+
+Check out the [official announcement](https://calendar.stonybrook.edu/site/iacs/event/iacs-workshop-intro-to-r-programming/) for details.

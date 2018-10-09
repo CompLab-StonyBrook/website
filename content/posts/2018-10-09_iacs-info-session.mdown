@@ -1,0 +1,10 @@
+Title: IACS Info Session
+Author: CompLab
+Date: 2018-10-11
+Category: Event
+Tags: students; courses
+
+Consider attending the [IACS info session](https://calendar.stonybrook.edu/site/iacs/event/iacs-information-session/) for computationally minded graduate students.
+The session will be held this Thursday, October 11, from 12:30pm to 2:00pm in the IACS Seminar Room.
+All kinds of topics will be covered, but perhaps the most important one is IACS's advanced graduate certificate in data science.
+This certificate is available for students in our M.A. and Ph.D. programs.

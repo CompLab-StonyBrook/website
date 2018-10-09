@@ -1,0 +1,15 @@
+Title: Computational Courses in Fall 2018
+Author: CompLab
+Date: 2018-08-20
+Category: News
+Tags: students; courses
+
+The following graduate courses in computational linguistics will be offered in our department this semester:
+
+1. Artificial Language Learning (Michael Becker)
+1. Computational Linguistics 1 (Jiwon Yun)
+1. Computational Morphology (Jeffrey Heinz)
+1. Mathematical Methods (Thomas Graf)
+
+There's also several talks and workshops lined up for this semester.
+Keep your eyes peeled.

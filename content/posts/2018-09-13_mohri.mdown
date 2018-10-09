@@ -1,0 +1,29 @@
+Title: Mehryar Mohri IACS Talk
+Author: CompLab
+Date: 2018-09-13
+Category: Event
+Tags: talk; learning; formal language theory
+
+At this weeks IACS seminar series, Mehryar Mohri (NYU/Google) will discuss how weighted automata can be used for online learning.
+
+The talk will take place Thursday, September 13, at 1pm in the IACS seminar room.
+
+**Title:** Competing with Weighted Automata Experts
+
+**Abstract:**
+This talk discusses a general framework for online learning with
+expert advice where regret is defined with respect to a dynamic set of
+experts represented by a weighted automata.  This framework is highly
+relevant to applications and covers many previous studies.
+ 
+We present a series of algorithms for this problem including an
+automata-based algorithm extending weighted-majority. We also give a
+more efficient algorithm drawing from automata theory tools and
+algorithms. We further present efficient algorithms based on an
+approximation of the competitor weighted automaton, in particular
+, n-gram models obtained by minimizing the infinite-Renyi divergence,
+and present an extensive study of the approximation properties of such
+models. Finally, we also extend our algorithms and results to the
+framework of sleeping experts.  Finally, we show that our
+approximation methods can be extended to online convex optimization
+and a general mirror descent setting.

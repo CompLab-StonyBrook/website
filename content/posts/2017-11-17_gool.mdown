@@ -1,0 +1,25 @@
+Title: Frontiers Talk by Sam van Gool
+Author: CompLab
+Date: 2017-11-17
+Category: Event
+Tags: invited speaker; formal language theory
+
+<img style="width:30%; float:right" src="{filename}/images/news/2017-11-17_gool.jpg" />
+
+[Sam van Gool](http://www.samvangool.net/) gave a *Frontiers talk* today at our department.
+Frontiers talks provide a venue for researchers to present bleeding-edge work to a more specialized audience than what one finds at a colloquium.
+Sam took full advantage of the format and delivered an amazing presentation on the connections between formal language theory and abstract algebra.
+His topic intersects with [recent work on subregular languages]() spearheaded by [Jeffrey Heinz](https://heinz-jeffrey.github.io/) here at Stony Brook.
+Needless to say, the post-talk dinner had a very lively discussion.
+
+The title and abstract of Sam's talk are shown below.
+
+## Language hierarchies and profinite monoids via Stone duality
+
+Finite monoids are useful algebraic invariants for regular languages:
+logical properties of a regular language correspond to algebraic properties of the finite monoids that recognize it.
+Profinite monoids figure prominently in this theory as the appropriate inverse limit objects for well-behaved classes of finite monoids.
+While the theory of (pro)finite monoids and regular languages is very classical, many problems in it remain open.
+In particular, there are notoriously difficult unanswered questions about the decidability of hierarchies of regular languages defined by restricting quantifier depth.
+In this talk, I will show how, in the past few years, the mathematical theory of
+Stone duality has helped to shed new light on some of these problems.

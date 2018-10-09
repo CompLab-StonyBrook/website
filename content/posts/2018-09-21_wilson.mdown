@@ -1,0 +1,30 @@
+Title: Colin Wilson Colloquium
+Author: CompLab
+Date: 2018-09-21
+Category: Event
+Tags: talk; morphology; learning
+
+This week's colloquium talk operates at the intersection of linguistics and machine learning.
+Colin Wilson of John Hopkins University will present his work on learning morphological mappings with neural networks.
+
+The talk will take place Friday, September 21, at 3:30pm in SAC 305.
+
+**Title:** Learning morphological mappings with interpretable neural networks
+
+**Abstract:**
+Deep neural networks have proven to be highly successful at
+learning many linguistic patterns, including morphological mappings (e.g.,
+work → worked), but their internal representations and processes remain
+largely opaque. In this talk, I describe a class of encoder-decoder
+networks that contain explicit representations of linguistic structures,
+such as stems and affixes, and whose processing steps can be
+straightforwardly understood as gradient application of elementary symbolic
+operations (e.g., reading and writing segments, overwriting of vowel
+melodies, stem extraction). Because all of the computations of these models
+are differentiable, they can be trained by gradient descent or other
+numerical optimization algorithms. Across a wide range of case studies —
+including operations of infixation, transfixation, and reduplication that
+have been challenging and unwieldy for previous models — the networks
+succeed in learning accurate and linguistically-interpretable analyses from
+unannotated examples of morphological mappings (e.g., [work, worked],
+[tristi, trumisti], [ʃamar, ʃimri], or [bagawen, babagawen]).
