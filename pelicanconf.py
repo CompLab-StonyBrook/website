@@ -115,3 +115,10 @@ AUTHOR_SAVE_AS = ''
 TAG_SAVE_AS = ''
 # no category page
 CATEGORY_SAVE_AS = ''
+
+ARTICLE_PATHS = ['posts']
+ARTICLE_URL = 'news/{category}/{slug}.html'
+ARTICLE_SAVE_AS = 'news/{category}/{slug}.html'
+PAGE_PATHS = ['pages']
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
