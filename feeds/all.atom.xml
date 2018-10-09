@@ -1,11 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Computational Linguistics Lab</title><link href="http://compling.stonybrook.edu/" rel="alternate"></link><link href="http://compling.stonybrook.edu/feeds/all.atom.xml" rel="self"></link><id>http://compling.stonybrook.edu/</id><updated>2018-07-09T00:00:00-04:00</updated><entry><title>Talk at “Parallels Between Phonology and Syntax”</title><link href="http://compling.stonybrook.edu/talk-at-parallels-between-phonology-and-syntax.html" rel="alternate"></link><published>2018-07-09T00:00:00-04:00</published><updated>2018-07-09T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-07-09:/talk-at-parallels-between-phonology-and-syntax.html</id><summary type="html">&lt;p&gt;One very active research area of our computational linguistics group is the subregular complexity of natural language.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Computational Linguistics Lab</title><link href="http://compling.stonybrook.edu/" rel="alternate"></link><link href="http://compling.stonybrook.edu/feeds/all.atom.xml" rel="self"></link><id>http://compling.stonybrook.edu/</id><updated>2018-10-11T00:00:00-04:00</updated><entry><title>IACS Info Session</title><link href="http://compling.stonybrook.edu/news/event/iacs-info-session.html" rel="alternate"></link><published>2018-10-11T00:00:00-04:00</published><updated>2018-10-11T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-10-11:/news/event/iacs-info-session.html</id><summary type="html">&lt;p&gt;Consider attending the &lt;a href="https://calendar.stonybrook.edu/site/iacs/event/iacs-information-session/"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; info session&lt;/a&gt; for computationally minded graduate students.
+The session will be held this Thursday, October 11, from 12:30pm to 2:00pm in the &lt;span class="caps"&gt;IACS&lt;/span&gt; Seminar Room.
+All kinds of topics will be covered, but perhaps the most important one is &lt;span class="caps"&gt;IACS&lt;/span&gt;&amp;#8217;s advanced graduate certificate …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Consider attending the &lt;a href="https://calendar.stonybrook.edu/site/iacs/event/iacs-information-session/"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; info session&lt;/a&gt; for computationally minded graduate students.
+The session will be held this Thursday, October 11, from 12:30pm to 2:00pm in the &lt;span class="caps"&gt;IACS&lt;/span&gt; Seminar Room.
+All kinds of topics will be covered, but perhaps the most important one is &lt;span class="caps"&gt;IACS&lt;/span&gt;&amp;#8217;s advanced graduate certificate in data science.
+This certificate is available for students in our &lt;span class="caps"&gt;M.A.&lt;/span&gt; and Ph.D.&amp;nbsp;programs.&lt;/p&gt;</content><category term="students"></category><category term="courses"></category></entry><entry><title>Register for IACS Workshop on Programming in R</title><link href="http://compling.stonybrook.edu/news/event/register-for-iacs-workshop-on-programming-in-r.html" rel="alternate"></link><published>2018-10-09T00:00:00-04:00</published><updated>2018-10-09T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-10-09:/news/event/register-for-iacs-workshop-on-programming-in-r.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; is again offering a 2-day workshop on R programming for beginners.
+The workshop will take place on October 22 and 23.
+&lt;strong&gt;Registration is&amp;nbsp;required.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href="https://calendar.stonybrook.edu/site/iacs/event/iacs-workshop-intro-to-r-programming/"&gt;official announcement&lt;/a&gt; for&amp;nbsp;details.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; is again offering a 2-day workshop on R programming for beginners.
+The workshop will take place on October 22 and 23.
+&lt;strong&gt;Registration is&amp;nbsp;required.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href="https://calendar.stonybrook.edu/site/iacs/event/iacs-workshop-intro-to-r-programming/"&gt;official announcement&lt;/a&gt; for&amp;nbsp;details.&lt;/p&gt;</content><category term="students"></category><category term="courses"></category></entry><entry><title>Colin Wilson Colloquium</title><link href="http://compling.stonybrook.edu/news/event/colin-wilson-colloquium.html" rel="alternate"></link><published>2018-09-21T00:00:00-04:00</published><updated>2018-09-21T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-09-21:/news/event/colin-wilson-colloquium.html</id><summary type="html">&lt;p&gt;This week&amp;#8217;s colloquium talk operates at the intersection of linguistics and machine learning.
+Colin Wilson of John Hopkins University will present his work on learning morphological mappings with neural&amp;nbsp;networks.&lt;/p&gt;
+&lt;p&gt;The talk will take place Friday, September 21, at 3:30pm in &lt;span class="caps"&gt;SAC&lt;/span&gt;&amp;nbsp;305.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Learning morphological mappings with …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This week&amp;#8217;s colloquium talk operates at the intersection of linguistics and machine learning.
+Colin Wilson of John Hopkins University will present his work on learning morphological mappings with neural&amp;nbsp;networks.&lt;/p&gt;
+&lt;p&gt;The talk will take place Friday, September 21, at 3:30pm in &lt;span class="caps"&gt;SAC&lt;/span&gt;&amp;nbsp;305.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Learning morphological mappings with interpretable neural&amp;nbsp;networks&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Deep neural networks have proven to be highly successful at
+learning many linguistic patterns, including morphological mappings (e.g.,
+work → worked), but their internal representations and processes remain
+largely opaque. In this talk, I describe a class of encoder-decoder
+networks that contain explicit representations of linguistic structures,
+such as stems and affixes, and whose processing steps can be
+straightforwardly understood as gradient application of elementary symbolic
+operations (e.g., reading and writing segments, overwriting of vowel
+melodies, stem extraction). Because all of the computations of these models
+are differentiable, they can be trained by gradient descent or other
+numerical optimization algorithms. Across a wide range of case studies —
+including operations of infixation, transfixation, and reduplication that
+have been challenging and unwieldy for previous models — the networks
+succeed in learning accurate and linguistically-interpretable analyses from
+unannotated examples of morphological mappings (e.g., [work, worked],
+[tristi, trumisti], [ʃamar, ʃimri], or [bagawen,&amp;nbsp;babagawen]).&lt;/p&gt;</content><category term="talk"></category><category term="morphology"></category><category term="learning"></category></entry><entry><title>Mehryar Mohri IACS Talk</title><link href="http://compling.stonybrook.edu/news/event/mehryar-mohri-iacs-talk.html" rel="alternate"></link><published>2018-09-13T00:00:00-04:00</published><updated>2018-09-13T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-09-13:/news/event/mehryar-mohri-iacs-talk.html</id><summary type="html">&lt;p&gt;At this weeks &lt;span class="caps"&gt;IACS&lt;/span&gt; seminar series, Mehryar Mohri (&lt;span class="caps"&gt;NYU&lt;/span&gt;/Google) will discuss how weighted automata can be used for online&amp;nbsp;learning.&lt;/p&gt;
+&lt;p&gt;The talk will take place Thursday, September 13, at 1pm in the &lt;span class="caps"&gt;IACS&lt;/span&gt; seminar&amp;nbsp;room.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Competing with Weighted Automata&amp;nbsp;Experts&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+This talk discusses a general framework for …&lt;/p&gt;</summary><content type="html">&lt;p&gt;At this weeks &lt;span class="caps"&gt;IACS&lt;/span&gt; seminar series, Mehryar Mohri (&lt;span class="caps"&gt;NYU&lt;/span&gt;/Google) will discuss how weighted automata can be used for online&amp;nbsp;learning.&lt;/p&gt;
+&lt;p&gt;The talk will take place Thursday, September 13, at 1pm in the &lt;span class="caps"&gt;IACS&lt;/span&gt; seminar&amp;nbsp;room.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Competing with Weighted Automata&amp;nbsp;Experts&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+This talk discusses a general framework for online learning with
+expert advice where regret is defined with respect to a dynamic set of
+experts represented by a weighted automata.  This framework is highly
+relevant to applications and covers many previous&amp;nbsp;studies.&lt;/p&gt;
+&lt;p&gt;We present a series of algorithms for this problem including an
+automata-based algorithm extending weighted-majority. We also give a
+more efficient algorithm drawing from automata theory tools and
+algorithms. We further present efficient algorithms based on an
+approximation of the competitor weighted automaton, in particular
+, n-gram models obtained by minimizing the infinite-Renyi divergence,
+and present an extensive study of the approximation properties of such
+models. Finally, we also extend our algorithms and results to the
+framework of sleeping experts.  Finally, we show that our
+approximation methods can be extended to online convex optimization
+and a general mirror descent&amp;nbsp;setting.&lt;/p&gt;</content><category term="talk"></category><category term="learning"></category><category term="formal language theory"></category></entry><entry><title>Computational Courses in Fall 2018</title><link href="http://compling.stonybrook.edu/news/news/computational-courses-in-fall-2018.html" rel="alternate"></link><published>2018-08-20T00:00:00-04:00</published><updated>2018-08-20T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-08-20:/news/news/computational-courses-in-fall-2018.html</id><summary type="html">&lt;p&gt;The following graduate courses in computational linguistics will be offered in our department this&amp;nbsp;semester:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Artificial Language Learning (Michael&amp;nbsp;Becker)&lt;/li&gt;
+&lt;li&gt;Computational Linguistics 1 (Jiwon&amp;nbsp;Yun)&lt;/li&gt;
+&lt;li&gt;Computational Morphology (Jeffrey&amp;nbsp;Heinz)&lt;/li&gt;
+&lt;li&gt;Mathematical Methods (Thomas&amp;nbsp;Graf)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There&amp;#8217;s also several talks and workshops lined up for this semester.
+Keep your eyes&amp;nbsp;peeled.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The following graduate courses in computational linguistics will be offered in our department this&amp;nbsp;semester:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Artificial Language Learning (Michael&amp;nbsp;Becker)&lt;/li&gt;
+&lt;li&gt;Computational Linguistics 1 (Jiwon&amp;nbsp;Yun)&lt;/li&gt;
+&lt;li&gt;Computational Morphology (Jeffrey&amp;nbsp;Heinz)&lt;/li&gt;
+&lt;li&gt;Mathematical Methods (Thomas&amp;nbsp;Graf)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There&amp;#8217;s also several talks and workshops lined up for this semester.
+Keep your eyes&amp;nbsp;peeled.&lt;/p&gt;</content><category term="students"></category><category term="courses"></category></entry><entry><title>Talk at “Parallels Between Phonology and Syntax”</title><link href="http://compling.stonybrook.edu/news/news/talk-at-parallels-between-phonology-and-syntax.html" rel="alternate"></link><published>2018-07-09T00:00:00-04:00</published><updated>2018-07-09T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-07-09:/news/news/talk-at-parallels-between-phonology-and-syntax.html</id><summary type="html">&lt;p&gt;One very active research area of our computational linguistics group is the subregular complexity of natural language.
 This involves identifying subtypes of finite-state machinery that are sufficiently powerful for specfic aspects of natural language, for example word stress in phonology or subcategorization in syntax.
 One unexcepted finding is that subregular …&lt;/p&gt;</summary><content type="html">&lt;p&gt;One very active research area of our computational linguistics group is the subregular complexity of natural language.
 This involves identifying subtypes of finite-state machinery that are sufficiently powerful for specfic aspects of natural language, for example word stress in phonology or subcategorization in syntax.
 One unexcepted finding is that subregular complexity is very similar across different language&amp;nbsp;modules.&lt;/p&gt;
 &lt;p&gt;This result will be presented at the workshop &lt;a href="http://www.phonologists.nl/parallels/"&gt;Parallels Between Phonology and Syntax&lt;/a&gt;, hosted by the Meertens Instituut in Amsterdam.
-The talk is titled &lt;em&gt;Tiers and Relativized Locality Across Language Modules&lt;/em&gt;, and synthesizes recent work by Thomas Graf, Alëna Aksënova, Hyunah Baek, Aniello De Santo, Hossep Dolatian, Sedigheh Moradi, and Jeffrey&amp;nbsp;Heinz.&lt;/p&gt;</content><category term="faculty"></category><category term="students"></category><category term="talk"></category><category term="phonology"></category><category term="syntax"></category></entry><entry><title>IACS Workshop on Programming in R</title><link href="http://compling.stonybrook.edu/iacs-workshop-on-programming-in-r.html" rel="alternate"></link><published>2018-01-18T00:00:00-05:00</published><updated>2018-01-18T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-01-18:/iacs-workshop-on-programming-in-r.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; is offering a 2-day workshop on R programming for beginners.
+The talk is titled &lt;em&gt;Tiers and Relativized Locality Across Language Modules&lt;/em&gt;, and synthesizes recent work by Thomas Graf, Alëna Aksënova, Hyunah Baek, Aniello De Santo, Hossep Dolatian, Sedigheh Moradi, and Jeffrey&amp;nbsp;Heinz.&lt;/p&gt;</content><category term="faculty"></category><category term="students"></category><category term="talk"></category><category term="phonology"></category><category term="syntax"></category></entry><entry><title>IACS Workshop on Programming in R</title><link href="http://compling.stonybrook.edu/news/event/iacs-workshop-on-programming-in-r.html" rel="alternate"></link><published>2018-01-18T00:00:00-05:00</published><updated>2018-01-18T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-01-18:/news/event/iacs-workshop-on-programming-in-r.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; is offering a 2-day workshop on R programming for beginners.
 The first workshop on January 20 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 21 filled up very fast, &lt;a href="https://www.iacs.stonybrook.edu/event/workshops/iacs-bootcamp-r-programming-for-beginners-2"&gt;another one will be offered on January 27 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 28&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This bootcamp is designed for an absolute beginner to the R programming language.
@@ -16,7 +88,7 @@ The first workshop on January 20 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 
 We will start by learning basic data types and operations, which will be followed by a fast introduction into loops and conditional statements.
 More advanced topics will include getting acquainted with base functions in R, as well as writing your own functions, and an introduction to creating simple plots.
 This bootcamp will provide you with the first necessary tools on the long road to becoming a more proficient programmer in the R&amp;nbsp;language.&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="students"></category><category term="courses"></category></entry><entry><title>Frontiers Talk by Kyle Gorman</title><link href="http://compling.stonybrook.edu/frontiers-talk-by-kyle-gorman.html" rel="alternate"></link><published>2017-11-29T00:00:00-05:00</published><updated>2017-11-29T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-29:/frontiers-talk-by-kyle-gorman.html</id><summary type="html">&lt;p&gt;&lt;img class="photo-right" src="http://compling.stonybrook.edu/images/news/2017-11-29_gorman.png" /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="students"></category><category term="courses"></category></entry><entry><title>Frontiers Talk by Kyle Gorman</title><link href="http://compling.stonybrook.edu/news/event/frontiers-talk-by-kyle-gorman.html" rel="alternate"></link><published>2017-11-29T00:00:00-05:00</published><updated>2017-11-29T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-29:/news/event/frontiers-talk-by-kyle-gorman.html</id><summary type="html">&lt;p&gt;&lt;img class="photo-right" src="http://compling.stonybrook.edu/images/news/2017-11-29_gorman.png" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://research.google.com/pubs/KyleGorman.html"&gt;Kyle Gorman&lt;/a&gt; will be giving a Frontiers talk in our department on November 29 at 4:00pm.
 Kyle got his Ph.D. in Linguistics from Penn University in 2013 and is now working in Google&amp;#8217;s research group on natural language processing in New York.
 One of the big splits …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img class="photo-right" src="http://compling.stonybrook.edu/images/news/2017-11-29_gorman.png" /&gt;&lt;/p&gt;
@@ -35,55 +107,4 @@ While both models achieve near-perfect performance, the latter model can be trai
 I also describe some extensions of this work to other classes such as currency and time expressions.
 The second half of the talk will discuss Pynini (Gorman 2016), an open-source Python library for grammar compilation, which is used to implement minimally supervised text normalization grammar induction.
 I will review the design of this library and provide several tutorial examples drawn from&amp;nbsp;morphophonology.&lt;/p&gt;
-&lt;p&gt;(This talk draws from work done in collaboration with &lt;a href="https://research.google.com/pubs/RichardSproat.html"&gt;Richard Sproat&lt;/a&gt;.)&lt;/p&gt;</content><category term="invited speaker"></category><category term="NLP"></category></entry><entry><title>Computational Courses in Spring 2018</title><link href="http://compling.stonybrook.edu/computational-courses-in-spring-2018.html" rel="alternate"></link><published>2017-11-25T00:00:00-05:00</published><updated>2017-11-25T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-25:/computational-courses-in-spring-2018.html</id><summary type="html">&lt;p&gt;As usual, the coming Spring semester has a large number of computational courses to choose from.
-In the Linguistics department, the following will be&amp;nbsp;offered:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Computational Linguistics 2 (&lt;span class="caps"&gt;LIN&lt;/span&gt; 637; Thomas&amp;nbsp;Graf)&lt;/li&gt;
-&lt;li&gt;Learnability, the second part of a 2-semester sequence (&lt;span class="caps"&gt;LIN&lt;/span&gt; 629; Jeffrey&amp;nbsp;Heinz)&lt;/li&gt;
-&lt;li&gt;Parsing &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Processing (&lt;span class="caps"&gt;LIN&lt;/span&gt; 630; Thomas&amp;nbsp;Graf …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;As usual, the coming Spring semester has a large number of computational courses to choose from.
-In the Linguistics department, the following will be&amp;nbsp;offered:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Computational Linguistics 2 (&lt;span class="caps"&gt;LIN&lt;/span&gt; 637; Thomas&amp;nbsp;Graf)&lt;/li&gt;
-&lt;li&gt;Learnability, the second part of a 2-semester sequence (&lt;span class="caps"&gt;LIN&lt;/span&gt; 629; Jeffrey&amp;nbsp;Heinz)&lt;/li&gt;
-&lt;li&gt;Parsing &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Processing (&lt;span class="caps"&gt;LIN&lt;/span&gt; 630; Thomas&amp;nbsp;Graf)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;In addition, several courses outside the department should be of interest to computationally minded&amp;nbsp;students:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Methods and Applications of Automated Natural Language Processing (&lt;span class="caps"&gt;SOC&lt;/span&gt; 595; &lt;a href="http://jasonjones.ninja/"&gt;Jason Jones&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Natural Language Processing (&lt;span class="caps"&gt;CSE&lt;/span&gt; 628; &lt;a href="http://www3.cs.stonybrook.edu/~niranjan/"&gt;Niranjan Balasubramanian&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://bender.astro.sunysb.edu/classes/python-science/"&gt;Python for Scientific Computing&lt;/a&gt; (&lt;span class="caps"&gt;PHY&lt;/span&gt; 546; &lt;a href="http://www.astro.sunysb.edu/mzingale/"&gt;Michael Zingale&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;</content><category term="students"></category><category term="courses"></category></entry><entry><title>Hossep Dolation Presenting in IACS Seminar Series</title><link href="http://compling.stonybrook.edu/hossep-dolation-presenting-in-iacs-seminar-series.html" rel="alternate"></link><published>2017-11-24T00:00:00-05:00</published><updated>2017-11-24T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-24:/hossep-dolation-presenting-in-iacs-seminar-series.html</id><summary type="html">&lt;p&gt;&lt;img style="width:30%; float:right" src="http://compling.stonybrook.edu/images/news/2017-11-24_dolatian.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Our very own Hossep Dolatian will be giving a &lt;a href="https://www.iacs.stonybrook.edu/event/seminars/reduplication-with-2-way-deterministic-finite-state-transducers"&gt;talk on computational models of reduplication&lt;/a&gt; in the &lt;a href="https://www.iacs.stonybrook.edu/events/seminars"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; seminar series&lt;/a&gt; next Spring semester on April 11,&amp;nbsp;2018.&lt;/p&gt;
-&lt;p&gt;Hossep&amp;#8217;s Ph.D. research has focused on the process of reduplication, where parts of an existing word are doubled in order to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img style="width:30%; float:right" src="http://compling.stonybrook.edu/images/news/2017-11-24_dolatian.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Our very own Hossep Dolatian will be giving a &lt;a href="https://www.iacs.stonybrook.edu/event/seminars/reduplication-with-2-way-deterministic-finite-state-transducers"&gt;talk on computational models of reduplication&lt;/a&gt; in the &lt;a href="https://www.iacs.stonybrook.edu/events/seminars"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; seminar series&lt;/a&gt; next Spring semester on April 11,&amp;nbsp;2018.&lt;/p&gt;
-&lt;p&gt;Hossep&amp;#8217;s Ph.D. research has focused on the process of reduplication, where parts of an existing word are doubled in order to create a new one.
-Take the language &lt;em&gt;Marshallese&lt;/em&gt;, a Micronesian language spoken in the Marshall Islands.
-In Marshallese, &lt;em&gt;kagir&lt;/em&gt; means belt, but if one doubles &lt;em&gt;gir&lt;/em&gt; one gets &lt;em&gt;kagir-gir&lt;/em&gt;, which means to wear a&amp;nbsp;belt.&lt;/p&gt;
-&lt;p&gt;Copying processes are computationally challenging.
-Depending on the size of the copied material, the process can be much more computationally demanding than anything else found in morphology, the part of language that deals with words.
-Even sentence structure rarely reaches these levels of complexity.
-Hossep has been carefully mapping out the kinds of attested reduplication across dozens of languages and how minor differences between the patterns can have a huge impact on their complexity.
-We are all looking forward to hearing about his newest research&amp;nbsp;findings.&lt;/p&gt;</content><category term="students"></category><category term="talk"></category><category term="morphology"></category></entry><entry><title>Frontiers Talk by Sam van Gool</title><link href="http://compling.stonybrook.edu/frontiers-talk-by-sam-van-gool.html" rel="alternate"></link><published>2017-11-17T00:00:00-05:00</published><updated>2017-11-17T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-17:/frontiers-talk-by-sam-van-gool.html</id><summary type="html">&lt;p&gt;&lt;img style="width:30%; float:right" src="http://compling.stonybrook.edu/images/news/2017-11-17_gool.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.samvangool.net/"&gt;Sam van Gool&lt;/a&gt; gave a &lt;em&gt;Frontiers talk&lt;/em&gt; today at our department.
-Frontiers talks provide a venue for researchers to present bleeding-edge work to a more specialized audience than what one finds at a colloquium.
-Sam took full advantage of the format and delivered an amazing presentation on the connections between …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img style="width:30%; float:right" src="http://compling.stonybrook.edu/images/news/2017-11-17_gool.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.samvangool.net/"&gt;Sam van Gool&lt;/a&gt; gave a &lt;em&gt;Frontiers talk&lt;/em&gt; today at our department.
-Frontiers talks provide a venue for researchers to present bleeding-edge work to a more specialized audience than what one finds at a colloquium.
-Sam took full advantage of the format and delivered an amazing presentation on the connections between formal language theory and abstract algebra.
-His topic intersects with &lt;a href=""&gt;recent work on subregular languages&lt;/a&gt; spearheaded by &lt;a href="https://heinz-jeffrey.github.io/"&gt;Jeffrey Heinz&lt;/a&gt; here at Stony Brook.
-Needless to say, the post-talk dinner had a very lively&amp;nbsp;discussion.&lt;/p&gt;
-&lt;p&gt;The title and abstract of Sam&amp;#8217;s talk are shown&amp;nbsp;below.&lt;/p&gt;
-&lt;h2 id="language-hierarchies-and-profinite-monoids-via-stone-duality"&gt;Language hierarchies and profinite monoids via Stone&amp;nbsp;duality&lt;/h2&gt;
-&lt;p&gt;Finite monoids are useful algebraic invariants for regular languages:
-logical properties of a regular language correspond to algebraic properties of the finite monoids that recognize it.
-Profinite monoids figure prominently in this theory as the appropriate inverse limit objects for well-behaved classes of finite monoids.
-While the theory of (pro)finite monoids and regular languages is very classical, many problems in it remain open.
-In particular, there are notoriously difficult unanswered questions about the decidability of hierarchies of regular languages defined by restricting quantifier depth.
-In this talk, I will show how, in the past few years, the mathematical theory of
-Stone duality has helped to shed new light on some of these&amp;nbsp;problems.&lt;/p&gt;</content><category term="invited speaker"></category><category term="formal language theory"></category></entry><entry><title>Computational Phonology Workshop</title><link href="http://compling.stonybrook.edu/computational-phonology-workshop.html" rel="alternate"></link><published>2016-12-12T00:00:00-05:00</published><updated>2016-12-12T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2016-12-12:/computational-phonology-workshop.html</id><summary type="html">&lt;p&gt;As part of the &lt;a href="http://lin626.thomasgraf.net"&gt;Computational Phonology class (&lt;span class="caps"&gt;LIN&lt;/span&gt; 626)&lt;/a&gt; we hosted an end-of-semester workshop on December 12, 2016.
-This was a great opportunity for students to present their computational research, and many of the projects have since been presented at prominent conferences (e.g. &lt;a href="http://chicagolinguisticsociety.org/public/CLS53_Booklet.pdf"&gt;&lt;span class="caps"&gt;CLS&lt;/span&gt; 53&lt;/a&gt;).
-We also had an …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As part of the &lt;a href="http://lin626.thomasgraf.net"&gt;Computational Phonology class (&lt;span class="caps"&gt;LIN&lt;/span&gt; 626)&lt;/a&gt; we hosted an end-of-semester workshop on December 12, 2016.
-This was a great opportunity for students to present their computational research, and many of the projects have since been presented at prominent conferences (e.g. &lt;a href="http://chicagolinguisticsociety.org/public/CLS53_Booklet.pdf"&gt;&lt;span class="caps"&gt;CLS&lt;/span&gt; 53&lt;/a&gt;).
-We also had an invited talk by &lt;a href="http://rci.rutgers.edu/~aj591/"&gt;Adam Jardine&lt;/a&gt;.
-For pictures and more information, please see the &lt;a href="https://complab-stonybrook.github.io/compphon_workshop/"&gt;workshop website&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="A packed auditorium at our phonology workshop" src="http://compling.stonybrook.edu/images/news/2016-12-12_workshop.jpg"&gt;&lt;/p&gt;</content><category term="workshop"></category><category term="phonology"></category><category term="students"></category><category term="invited speaker"></category></entry></feed>
+&lt;p&gt;(This talk draws from work done in collaboration with &lt;a href="https://research.google.com/pubs/RichardSproat.html"&gt;Richard Sproat&lt;/a&gt;.)&lt;/p&gt;</content><category term="invited speaker"></category><category term="NLP"></category></entry></feed>
