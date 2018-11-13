@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Computational Linguistics Lab</title><link href="http://compling.stonybrook.edu/" rel="alternate"></link><link href="http://compling.stonybrook.edu/feeds/all.atom.xml" rel="self"></link><id>http://compling.stonybrook.edu/</id><updated>2018-10-11T00:00:00-04:00</updated><entry><title>IACS Info Session</title><link href="http://compling.stonybrook.edu/news/event/iacs-info-session.html" rel="alternate"></link><published>2018-10-11T00:00:00-04:00</published><updated>2018-10-11T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-10-11:/news/event/iacs-info-session.html</id><summary type="html">&lt;p&gt;Consider attending the &lt;a href="https://calendar.stonybrook.edu/site/iacs/event/iacs-information-session/"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; info session&lt;/a&gt; for computationally minded graduate students.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Computational Linguistics Lab</title><link href="http://compling.stonybrook.edu/" rel="alternate"></link><link href="http://compling.stonybrook.edu/feeds/all.atom.xml" rel="self"></link><id>http://compling.stonybrook.edu/</id><updated>2018-11-14T00:00:00-05:00</updated><entry><title>Rawski on Learning with Partially Ordered Sets</title><link href="http://compling.stonybrook.edu/news/event/rawski-on-learning-with-partially-ordered-sets.html" rel="alternate"></link><published>2018-11-14T00:00:00-05:00</published><updated>2018-11-14T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-11-14:/news/event/rawski-on-learning-with-partially-ordered-sets.html</id><summary type="html">&lt;p&gt;Jon Rawski is presenting his work on learning with partially ordered representation in the &lt;span class="caps"&gt;IACS&lt;/span&gt; seminar room this Wednesday, November 14, 1-2pm.
+Check it out (for the undecided: there&amp;#8217;ll be free&amp;nbsp;lunch)!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
+Learning with Partially Ordered&amp;nbsp;Representations&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+When generalizing, and making compact hypotheses from sparse and
+impoverished …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Jon Rawski is presenting his work on learning with partially ordered representation in the &lt;span class="caps"&gt;IACS&lt;/span&gt; seminar room this Wednesday, November 14, 1-2pm.
+Check it out (for the undecided: there&amp;#8217;ll be free&amp;nbsp;lunch)!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
+Learning with Partially Ordered&amp;nbsp;Representations&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+When generalizing, and making compact hypotheses from sparse and
+impoverished data, learning algorithms often rely on domain-specific
+representations or features. Often these features pose a learning problem,
+by exponentially increasing the number of hypotheses which correctly
+describe data. However, features also give the learner an advantage, by
+structuring the space of hypotheses in a particular way.  This structure
+gives rise to certain entailments between grammars, which I show using
+several linguistic examples - text recognition, speech analysis, and
+syntactic adjunction. I discuss how learners can exploit this structure to
+make inferences, and introduce a non-statistical learning method that
+provably identifies the responsible constraints. Integration and comparison
+of these insights into statistical learning is ongoing&amp;nbsp;research.&lt;/p&gt;</content><category term="talk"></category><category term="learning"></category></entry><entry><title>Joint Frontiers/NLP Talk by Ryan Cotterell</title><link href="http://compling.stonybrook.edu/news/event/joint-frontiersnlp-talk-by-ryan-cotterell.html" rel="alternate"></link><published>2018-11-11T00:00:00-05:00</published><updated>2018-11-11T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-11-11:/news/event/joint-frontiersnlp-talk-by-ryan-cotterell.html</id><summary type="html">&lt;p&gt;&lt;a href="https://ryancotterell.github.io/"&gt;Ryan Cotterell&lt;/a&gt; will give a talk on Monday, November 12, at 4pm in the &lt;span class="caps"&gt;IACS&lt;/span&gt; seminar room.
+The talk is co-hosted as part of the Frontiers Talk series in the Department of the Linguistics and the &lt;span class="caps"&gt;NLP&lt;/span&gt; group of the Department of Computer&amp;nbsp;Science.&lt;/p&gt;
+&lt;p&gt;Ryan is the winner of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://ryancotterell.github.io/"&gt;Ryan Cotterell&lt;/a&gt; will give a talk on Monday, November 12, at 4pm in the &lt;span class="caps"&gt;IACS&lt;/span&gt; seminar room.
+The talk is co-hosted as part of the Frontiers Talk series in the Department of the Linguistics and the &lt;span class="caps"&gt;NLP&lt;/span&gt; group of the Department of Computer&amp;nbsp;Science.&lt;/p&gt;
+&lt;p&gt;Ryan is the winner of the &lt;span class="caps"&gt;ACL&lt;/span&gt; 2017 best paper award.
+He is currently finishing his PhD at Johns Hopkins University and about to start a position at Cambridge&amp;nbsp;University.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
+Probabilistic Typology: Deep Generative Models of Vowel&amp;nbsp;Inventories&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Linguistic typology studies the range of structures present in human
+language. The main goal of the field is to discover which sets of possible
+phenomena are universal, and which are merely frequent. For example, all
+languages have vowels, while most—but not all—languages have an [u] sound.
+In this paper we present the first probabilistic treatment of a basic
+question in phonological typology: What makes a natural vowel inventory? We
+introduce a series of deep stochastic point processes, and contrast them
+with previous computational, simulation-based approaches. We provide a
+comprehensive suite of experiments on over 200 distinct&amp;nbsp;languages.&lt;/p&gt;</content><category term="talk"></category><category term="phonology"></category></entry><entry><title>IACS Info Session</title><link href="http://compling.stonybrook.edu/news/event/iacs-info-session.html" rel="alternate"></link><published>2018-10-11T00:00:00-04:00</published><updated>2018-10-11T00:00:00-04:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-10-11:/news/event/iacs-info-session.html</id><summary type="html">&lt;p&gt;Consider attending the &lt;a href="https://calendar.stonybrook.edu/site/iacs/event/iacs-information-session/"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; info session&lt;/a&gt; for computationally minded graduate students.
 The session will be held this Thursday, October 11, from 12:30pm to 2:00pm in the &lt;span class="caps"&gt;IACS&lt;/span&gt; Seminar Room.
 All kinds of topics will be covered, but perhaps the most important one is &lt;span class="caps"&gt;IACS&lt;/span&gt;&amp;#8217;s advanced graduate certificate …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Consider attending the &lt;a href="https://calendar.stonybrook.edu/site/iacs/event/iacs-information-session/"&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; info session&lt;/a&gt; for computationally minded graduate students.
 The session will be held this Thursday, October 11, from 12:30pm to 2:00pm in the &lt;span class="caps"&gt;IACS&lt;/span&gt; Seminar Room.
@@ -77,34 +116,4 @@ One unexcepted finding is that subregular …&lt;/p&gt;</summary><content type="
 This involves identifying subtypes of finite-state machinery that are sufficiently powerful for specfic aspects of natural language, for example word stress in phonology or subcategorization in syntax.
 One unexcepted finding is that subregular complexity is very similar across different language&amp;nbsp;modules.&lt;/p&gt;
 &lt;p&gt;This result will be presented at the workshop &lt;a href="http://www.phonologists.nl/parallels/"&gt;Parallels Between Phonology and Syntax&lt;/a&gt;, hosted by the Meertens Instituut in Amsterdam.
-The talk is titled &lt;em&gt;Tiers and Relativized Locality Across Language Modules&lt;/em&gt;, and synthesizes recent work by Thomas Graf, Alëna Aksënova, Hyunah Baek, Aniello De Santo, Hossep Dolatian, Sedigheh Moradi, and Jeffrey&amp;nbsp;Heinz.&lt;/p&gt;</content><category term="faculty"></category><category term="students"></category><category term="talk"></category><category term="phonology"></category><category term="syntax"></category></entry><entry><title>IACS Workshop on Programming in R</title><link href="http://compling.stonybrook.edu/news/event/iacs-workshop-on-programming-in-r.html" rel="alternate"></link><published>2018-01-18T00:00:00-05:00</published><updated>2018-01-18T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2018-01-18:/news/event/iacs-workshop-on-programming-in-r.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; is offering a 2-day workshop on R programming for beginners.
-The first workshop on January 20 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 21 filled up very fast, &lt;a href="https://www.iacs.stonybrook.edu/event/workshops/iacs-bootcamp-r-programming-for-beginners-2"&gt;another one will be offered on January 27 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 28&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This bootcamp is designed for an absolute beginner to the R programming language.
-We will start by learning basic …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;&lt;span class="caps"&gt;IACS&lt;/span&gt; is offering a 2-day workshop on R programming for beginners.
-The first workshop on January 20 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 21 filled up very fast, &lt;a href="https://www.iacs.stonybrook.edu/event/workshops/iacs-bootcamp-r-programming-for-beginners-2"&gt;another one will be offered on January 27 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 28&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This bootcamp is designed for an absolute beginner to the R programming language.
-We will start by learning basic data types and operations, which will be followed by a fast introduction into loops and conditional statements.
-More advanced topics will include getting acquainted with base functions in R, as well as writing your own functions, and an introduction to creating simple plots.
-This bootcamp will provide you with the first necessary tools on the long road to becoming a more proficient programmer in the R&amp;nbsp;language.&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="students"></category><category term="courses"></category></entry><entry><title>Frontiers Talk by Kyle Gorman</title><link href="http://compling.stonybrook.edu/news/event/frontiers-talk-by-kyle-gorman.html" rel="alternate"></link><published>2017-11-29T00:00:00-05:00</published><updated>2017-11-29T00:00:00-05:00</updated><author><name>CompLab</name></author><id>tag:compling.stonybrook.edu,2017-11-29:/news/event/frontiers-talk-by-kyle-gorman.html</id><summary type="html">&lt;p&gt;&lt;img class="photo-right" src="http://compling.stonybrook.edu/images/news/2017-11-29_gorman.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://research.google.com/pubs/KyleGorman.html"&gt;Kyle Gorman&lt;/a&gt; will be giving a Frontiers talk in our department on November 29 at 4:00pm.
-Kyle got his Ph.D. in Linguistics from Penn University in 2013 and is now working in Google&amp;#8217;s research group on natural language processing in New York.
-One of the big splits …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img class="photo-right" src="http://compling.stonybrook.edu/images/news/2017-11-29_gorman.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://research.google.com/pubs/KyleGorman.html"&gt;Kyle Gorman&lt;/a&gt; will be giving a Frontiers talk in our department on November 29 at 4:00pm.
-Kyle got his Ph.D. in Linguistics from Penn University in 2013 and is now working in Google&amp;#8217;s research group on natural language processing in New York.
-One of the big splits in &lt;span class="caps"&gt;NLP&lt;/span&gt; is the divide between hand-crafted resources and automatically trained machine models.
-In his talk, Kyle will contrast the usefulness of these two approaches for text&amp;nbsp;normalization.&lt;/p&gt;
-&lt;p&gt;The title and abstract are&amp;nbsp;below.&lt;/p&gt;
-&lt;h2 id="minimally-supervised-text-normalization-algorithms-and-implementation"&gt;Minimally supervised text normalization: algorithms and&amp;nbsp;implementation&lt;/h2&gt;
-&lt;p&gt;Text normalization refers to methods used to convert text input from written (e.g., &amp;#8220;$2.50&amp;#8221;, &amp;#8220;5:15pm&amp;#8221;) to spoken form (&amp;#8220;two dollars and fifty cents&amp;#8221;, &amp;#8220;five fifteen &lt;span class="caps"&gt;PM&lt;/span&gt;&amp;#8221;), primarily, though not exclusively, as part of a text-to-speech synthesis engine.
-Unlike much of modern natural language processing, much of this process is currently accomplished using hand-written language-specific grammars rather than general-purpose machine learning engines, hindering our ability to scale.
-In the first half of the talk, I describe experiments on learning text normalization for cardinal and ordinal numbers (Gorman &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Sproat 2016), which accounts for much of the complexity of these language-specific grammars.
-The first model I describe uses an end-to-end recurrent neural network.
-The second model, drawing inspiration from the linguistics literature, uses finite-state transducers constructed with a minimal amount of training data. 
-While both models achieve near-perfect performance, the latter model can be trained using several orders of magnitude less data than the former, making it particularly useful for low-resource languages.
-I also describe some extensions of this work to other classes such as currency and time expressions.
-The second half of the talk will discuss Pynini (Gorman 2016), an open-source Python library for grammar compilation, which is used to implement minimally supervised text normalization grammar induction.
-I will review the design of this library and provide several tutorial examples drawn from&amp;nbsp;morphophonology.&lt;/p&gt;
-&lt;p&gt;(This talk draws from work done in collaboration with &lt;a href="https://research.google.com/pubs/RichardSproat.html"&gt;Richard Sproat&lt;/a&gt;.)&lt;/p&gt;</content><category term="invited speaker"></category><category term="NLP"></category></entry></feed>
+The talk is titled &lt;em&gt;Tiers and Relativized Locality Across Language Modules&lt;/em&gt;, and synthesizes recent work by Thomas Graf, Alëna Aksënova, Hyunah Baek, Aniello De Santo, Hossep Dolatian, Sedigheh Moradi, and Jeffrey&amp;nbsp;Heinz.&lt;/p&gt;</content><category term="faculty"></category><category term="students"></category><category term="talk"></category><category term="phonology"></category><category term="syntax"></category></entry></feed>
