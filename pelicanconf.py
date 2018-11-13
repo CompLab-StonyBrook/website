@@ -80,16 +80,16 @@ PROJECTS = [{
 
 # Custom Menu
 DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 PAGE_ORDER_BY = 'page-order'
 
-# MENUITEMS = (
-#     ('Programs', '/pages/programs.html'),
-#     ('People', '/pages/people.html'),
-#     ('Alumni', '/pages/alumni.html'),
-#     ('Research', '/pages/research.html'),
-#     ('Resources', '/pages/software-resources.html'),
-# )
+MENUITEMS = (
+    ('Programs', '/programs.html'),
+    ('People', '/people.html'),
+    ('Alumni', '/alumni.html'),
+    ('Research', '/research.html'),
+    ('Resources', '/resources.html'),
+)
 
 # Tricks to deal with special files
 STATIC_PATHS = ['theme/images', 'images', 'doc', 'extra/CNAME', 'extra/README.md']
