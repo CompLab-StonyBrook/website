@@ -1,0 +1,26 @@
+Title: Joint Frontiers/NLP Talk by Ryan Cotterell
+Author: CompLab
+Date: 2018-11-11
+Category: Event
+Tags: talk; phonology
+
+
+[Ryan Cotterell](https://ryancotterell.github.io/) will give a talk on Monday, November 12, at 4pm in the IACS seminar room.
+The talk is co-hosted as part of the Frontiers Talk series in the Department of the Linguistics and the NLP group of the Department of Computer Science.
+
+Ryan is the winner of the ACL 2017 best paper award.
+He is currently finishing his PhD at Johns Hopkins University and about to start a position at Cambridge University.
+
+**Title:**
+Probabilistic Typology: Deep Generative Models of Vowel Inventories
+
+**Abstract:**
+Linguistic typology studies the range of structures present in human
+language. The main goal of the field is to discover which sets of possible
+phenomena are universal, and which are merely frequent. For example, all
+languages have vowels, while most—but not all—languages have an [u] sound.
+In this paper we present the first probabilistic treatment of a basic
+question in phonological typology: What makes a natural vowel inventory? We
+introduce a series of deep stochastic point processes, and contrast them
+with previous computational, simulation-based approaches. We provide a
+comprehensive suite of experiments on over 200 distinct languages.

@@ -1,0 +1,25 @@
+Title: Rawski on Learning with Partially Ordered Sets
+Author: CompLab
+Date: 2018-11-14
+Category: Event
+Tags: talk; learning
+
+Jon Rawski is presenting his work on learning with partially ordered representation in the IACS seminar room this Wednesday, November 14, 1-2pm.
+Check it out (for the undecided: there'll be free lunch)!
+
+**Title:**
+Learning with Partially Ordered Representations
+
+**Abstract:**
+When generalizing, and making compact hypotheses from sparse and
+impoverished data, learning algorithms often rely on domain-specific
+representations or features. Often these features pose a learning problem,
+by exponentially increasing the number of hypotheses which correctly
+describe data. However, features also give the learner an advantage, by
+structuring the space of hypotheses in a particular way.  This structure
+gives rise to certain entailments between grammars, which I show using
+several linguistic examples - text recognition, speech analysis, and
+syntactic adjunction. I discuss how learners can exploit this structure to
+make inferences, and introduce a non-statistical learning method that
+provably identifies the responsible constraints. Integration and comparison
+of these insights into statistical learning is ongoing research.
